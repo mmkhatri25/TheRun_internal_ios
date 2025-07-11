@@ -1,0 +1,25 @@
+1
+00:00:00,600 --> 00:00:01,800
+Arcade.
+
+2
+00:00:04,599 --> 00:00:06,000
+Quelles sont mes options?
+
+3
+00:00:06,000 --> 00:00:07,919
+Comme il s'agit du jeu final,
+
+4
+00:00:07,919 --> 00:00:10,320
+il y a un jeu spécial
+par catégorie.
+
+5
+00:00:10,320 --> 00:00:11,880
+Donc qu'est-ce que c'est?
+
+6
+00:00:11,880 --> 00:00:13,480
+Un vrai classique.
+

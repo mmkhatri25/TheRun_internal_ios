@@ -1,0 +1,39 @@
+1
+00:00:01,080 --> 00:00:02,080
+Solo.
+
+2
+00:00:03,160 --> 00:00:04,160
+Pardon?
+
+3
+00:00:05,280 --> 00:00:07,240
+Solo.
+C'est quoi le jeu?
+
+4
+00:00:13,320 --> 00:00:14,919
+Un meurtre a eu lieu.
+
+5
+00:00:14,919 --> 00:00:19,320
+Un homme a été égorgé d'une oreille
+à l'autre et l'agresseur est en fuite.
+
+6
+00:00:21,199 --> 00:00:23,440
+Je présente les suspects.
+
+7
+00:00:26,600 --> 00:00:28,600
+Assez moche comme bande.
+
+8
+00:00:29,120 --> 00:00:33,039
+Vous avez trois questions oui/non
+à poser pour pouvoir deviner le meurtrier.
+
+9
+00:00:33,039 --> 00:00:34,759
+Quelle est votre première?
+

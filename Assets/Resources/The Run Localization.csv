@@ -1,0 +1,211 @@
+Keys,English,French,Italian,German,Spanish (LATAM),Portuguese (Brazil),Turkish,Russian,Japanese,Korean,Chinese (Simplified),Arabic
+sc_1_3_1,Be Kind,Soyez gentil,Sii gentile,Freundlich sein,Sé amable,Seja gentil,Nazik Ol,Будьте добры,親切にしてください,친절하세요,友善一点,كن لطيفا
+sc_1_3_2,Be Honest,Soyez honnête,Sii onesto,Seien Sie ehrlich,Sea honesto,Seja honesto,Dürüst Ol,Будьте честны,正直であれ,솔직해지세요,诚实,كن صادقا
+sc_6_1,Open Door,Porte ouverte,Porta aperta,Tür öffnen,puerta abierta,Porta aberta,Açık Kapı,Открытая дверь,オープンドア,문호 개방,开门,افتح الباب
+sc_6_2,Dismiss,Rejeter,Congedare,Zurückweisen,Despedir,Liberar,Azletmek,Увольнять,却下する,해고하다,解雇,رفض
+sc_10_12_1,Greet,Saluer,Salutare,Begrüßen,Saludar,Saudar,Selamlaşmak,Приветствовать,挨拶する,환영하다,迎接,تحية
+sc_10_12_2,Ignore,Ignorer,Ignorare,Ignorieren,Ignorar,Ignorar,Görmezden gelmek,игнорировать,無視する,무시하다,忽略,يتجاهل
+sc_13_15_1,Ignore,Ignorer,Ignorare,Ignorieren,Ignorar,Ignorar,Görmezden gelmek,игнорировать,無視する,무시하다,忽略,يتجاهل
+sc_13_15_2,Help,Aide,Aiuto,Helfen,Ayuda,Ajuda,Yardım,Помощь,ヘルプ,돕다,帮助,يساعد
+sc_14_15_1,Ignore,Ignorer,Ignorare,Ignorieren,Ignorar,Ignorar,Görmezden gelmek,игнорировать,無視する,무시하다,忽略,يتجاهل
+sc_14_15_2,Help,Aide,Aiuto,Helfen,Ayuda,Ajuda,Yardım,Помощь,ヘルプ,돕다,帮助,يساعد
+sc_20_21_1,Send Money,Envoyer de l'argent,Invia denaro,Geld senden,enviar dinero,Enviar dinheiro,Para Gönder,Отправить деньги,送金,송금,汇款,إرسال الأموال
+sc_20_21_2,Decline,Déclin,Declino,Abfall,Rechazar,Declínio,Reddetmek,Отклонить,衰退,감소,衰退,انخفاض
+sc_24_1,North Trail,Sentier Nord,Sentiero Nord,Nordweg,Sendero Norte,Trilha Norte,Kuzey Yolu,Северная тропа,ノーストレイル,노스 트레일,北径,درب الشمال
+sc_24_2,South Trail,Sentier Sud,Sentiero Sud,Südweg,Sendero Sur,Trilha Sul,Güney Yolu,Южная тропа,サウストレイル,사우스 트레일,南径,درب الجنوب
+sc_25_29_1,Keep Running,Continuez à courir,Continua a correre,Laufen Sie weiter,Sigue corriendo,Continue correndo,Koşmaya Devam Et,Продолжайте бежать,走り続ける,계속 달리다,继续奔跑,استمر في الجري
+sc_25_29_2,Switch To South Trail,Passer au sentier sud,Passa al sentiero sud,Wechseln Sie zum South Trail,Cambiar al sendero sur,Mude para a trilha sul,South Trail'e Geç,Переключиться на южную тропу,サウストレイルに切り替え,사우스 트레일로 전환,切换至南步道,قم بالتبديل إلى المسار الجنوبي
+sc_33_1,Dismiss,Rejeter,Congedare,Zurückweisen,Despedir,Liberar,Azletmek,Увольнять,却下する,해고하다,解雇,رفض
+sc_33_2,Investigate,Enquêter,Investigare,Untersuchen,Investigar,Investigar,Araştırmak,Расследовать,調査する,조사하다,调查,يفتش
+sc_35_36_1,Investigate,Enquêter,Investigare,Untersuchen,Investigar,Investigar,Araştırmak,Расследовать,調査する,조사하다,调查,يفتش
+sc_35_36_2,Leave,Partir,Partire,Verlassen,Dejar,Deixar,Ayrılmak,Оставлять,離れる,떠나다,离开,يترك
+sc_39_1,Music,Musique,Musica,Musik,Música,Música,Müzik,Музыка,音楽,음악,音乐,موسيقى
+sc_39_2,Podcast,Podcast,Podcast,Podcast,Podcast,Podcast,Podcast,Подкаст,ポッドキャスト,팟캐스트,播客,بودكاست
+sc_43_44_1,Give Directions,Donner des directions,Dare indicazioni,Geben Sie Anweisungen,Dar direcciones,Dê instruções,Yol Tarifi Ver,Дайте направление,道順を知らせる,방향 제시,指路,إعطاء الاتجاهات
+sc_43_44_2,Dismiss,Rejeter,Congedare,Zurückweisen,Despedir,Liberar,Azletmek,Увольнять,却下する,해고하다,解雇,رفض
+sc_48_1,Turn Back,Revenir,Tornare indietro,Kehren Sie um,Hacer retroceder,Voltar,Geri Dön,Повернуть назад,引き返す,돌아서다,折回,العودة إلى الوراء
+sc_48_2,Remove Wire,Retirer le fil,Rimuovi filo,Draht entfernen,Quitar cable,Remover fio,Kabloyu Çıkarın,Удалить провод,ワイヤーを外す,와이어 제거,移除电线,إزالة السلك
+sc_50_1,Return To Trail,Retour au sentier,Ritorno al sentiero,Zurück zum Trail,Regresar al sendero,Retornar à trilha,Trail'e Dönüş,Вернуться к тропе,トレイルに戻る,트레일로 돌아가기,返回路线,العودة إلى درب
+sc_50_2,Pull Knife,Tirer le couteau,Tirare il coltello,Messer ziehen,Tirar del cuchillo,Puxar faca,Çekme Bıçağı,Вытащить нож,プルナイフ,칼을 당겨,拉刀,سحب السكين
+sc_53_55_1,Help,Aide,Aiuto,Helfen,Ayuda,Ajuda,Yardım,Помощь,ヘルプ,돕다,帮助,يساعد
+sc_53_55_2,Vlog,Vlog,Vlog,Vlog,Vlog,Vlog,Vlog,Влог,ビデオブログ,브이로그,视频博客,مدونة فيديو
+sc_63_1,Attack High,Attaque élevée,Attacco alto,Angriff hoch,Ataque alto,Ataque alto,Yüksek Saldırı,Высокая атака,攻撃力が高い,공격 높음,攻击力高,الهجوم عالي
+sc_63_2,Attack Low,Attaque basse,Attacco basso,Angriff niedrig,Ataque bajo,Ataque Baixo,Saldırı Düşük,Атака низкая,攻撃力が低い,공격력 낮음,攻击力低,الهجوم منخفض
+sc_66_1,Attack High,Attaque élevée,Attacco alto,Angriff hoch,Ataque alto,Ataque alto,Yüksek Saldırı,Высокая атака,攻撃力が高い,공격 높음,攻击力高,الهجوم عالي
+sc_66_2,Attack Low,Attaque basse,Attacco basso,Angriff niedrig,Ataque bajo,Ataque Baixo,Saldırı Düşük,Атака низкая,攻撃力が低い,공격력 낮음,攻击力低,الهجوم منخفض
+sc_67_1,Help,Aide,Aiuto,Helfen,Ayuda,Ajuda,Yardım,Помощь,ヘルプ,돕다,帮助,يساعد
+sc_67_2,Abandon,Abandonner,Abbandono,Aufgeben,Abandonar,Abandonar,Terk etmek,Покидать,放棄する,버리다,放弃,يتخلى عن
+sc_74A_1,Keep Running,Continuez à courir,Continua a correre,Laufen Sie weiter,Sigue corriendo,Continue correndo,Koşmaya Devam Et,Продолжайте бежать,走り続ける,계속 달리다,继续奔跑,استمر في الجري
+sc_74A_2,Hide In Cave,Cacher dans la grotte,Nasconditi nella grotta,In der Höhle verstecken,Esconderse en la cueva,Esconder-se na caverna,Mağarada Gizle,Спрятаться в пещере,洞窟に隠れる,동굴에 숨으세요,躲在山洞里,إخفاء في الكهف
+sc_82_86_1,Tunnel,Tunnel,Tunnel,Tunnel,Túnel,Túnel,Tünel,Туннель,トンネル,터널,隧道,نفق
+sc_82_86_2,Keep Running,Continuez à courir,Continua a correre,Laufen Sie weiter,Sigue corriendo,Continue correndo,Koşmaya Devam Et,Продолжайте бежать,走り続ける,계속 달리다,继续奔跑,استمر في الجري
+sc_87A_1,Investigate Smoke,Enquêter sur la fumée,Indaga sul fumo,Untersuchen Sie Rauch,Investigar el humo,Investigar fumaça,Dumanı Araştır,Расследовать дым,煙を調査する,연기 조사,调查烟雾,التحقيق في الدخان
+sc_87A_2,Leave,Partir,Partire,Verlassen,Dejar,Deixar,Ayrılmak,Оставлять,離れる,떠나다,离开,يترك
+sc_99_101_1,Argue,Argumenter,Litigare,Argumentieren,Argumentar,Discutir,Tartışmak,Спорить,主張する,다투다,争论,يجادل
+sc_99_101_2,Negotiate,Négocier,Negoziare,Verhandeln,Negociar,Negociar,Pazarlık etmek,Вести переговоры,交渉する,협상하다,谈判,تفاوض
+sc_102_1,Run,Courir,Correre,Laufen,Correr,Correr,Koşmak,Бегать,走る,달리다,跑步,يجري
+sc_102_2,Pay By Card,Payer par carte,Paga con carta,Bezahlen Sie mit Karte,Pagar con tarjeta,Pague com cartão,Kartla Ödeme,Оплата картой,カードで支払う,카드 결제,卡支付,الدفع بالبطاقة
+sc_103_1,Pay By Card,Payer par carte,Paga con carta,Bezahlen Sie mit Karte,Pagar con tarjeta,Pague com cartão,Kartla Ödeme,Оплата картой,カードで支払う,카드 결제,卡支付,الدفع بالبطاقة
+sc_103_2,Switch To North Trail,Passer au sentier nord,Passa al sentiero nord,Wechseln Sie zum Nordweg,Cambiar al sendero norte,Mudar para trilha norte,North Trail'e Geç,Переключиться на Северную тропу,ノーストレイルに切り替えます,노스 트레일로 전환,切换至北步道,قم بالتبديل إلى المسار الشمالي
+sc_105_106_1,Open Box,Boîte ouverte,Scatola aperta,Öffnen Sie die Box,Caja abierta,Caixa aberta,Kutuyu Aç,Открытая коробка,オープンボックス,오픈박스,开箱,افتح الصندوق
+sc_105_106_2,Inspect Photograph,Inspecter la photographie,Ispeziona la fotografia,Foto prüfen,Inspeccionar fotografía,Inspecionar fotografia,Fotoğrafı İncele,Осмотреть фотографию,写真の検査,사진 검사,检查照片,فحص الصورة
+sc_107_1,Close Box,Fermer la boîte,Chiudi casella,Box schließen,Cerrar cuadro,Fechar caixa,Kutuyu Kapat,Закрыть окно,クローズボックス,상자 닫기,关闭框,إغلاق الصندوق
+sc_107_2,Take Amulet,Prendre l'amulette,Prendi l'Amuleto,Nimm Amulett,tomar amuleto,Pegue o amuleto,Muska al,Возьмите амулет,アミュレットを取る,부적을 가져 가라,拿走护身符,خذ تميمة
+sc_114_1,Music,Musique,Musica,Musik,Música,Música,Müzik,Музыка,音楽,음악,音乐,موسيقى
+sc_114_2,Podcast,Podcast,Podcast,Podcast,Podcast,Podcast,Podcast,Подкаст,ポッドキャスト,팟캐스트,播客,بودكاست
+sc_118_1,Enter Fort,Entrez dans le fort,Entra nel Forte,Betreten Sie Fort,Entrar al fuerte,Entre no Forte,Kaleye girin,Войдите в Форт,砦に入る,요새 진입,进入堡垒,أدخل فورت
+sc_118_2,Keep Running,Continuez à courir,Continua a correre,Laufen Sie weiter,Sigue corriendo,Continue correndo,Koşmaya Devam Et,Продолжайте бежать,走り続ける,계속 달리다,继续奔跑,استمر في الجري
+sc_119_120_1,Go Upstairs,Monter à l'étage,Vai di sopra,Geh nach oben,Ir arriba,Suba as escadas,Üst kata çık,Иди наверх,上の階に行く,위층으로 가세요,上楼,اذهب إلى الطابق العلوي
+sc_119_120_2,Stay Downstairs,Restez en bas,Resta di sotto,Bleiben Sie unten,Quédate abajo,Fique lá embaixo,Alt katta kal,Оставайтесь внизу,階下に滞在,아래층에 있어라,留在楼下,البقاء في الطابق السفلي
+sc_123_1,Take Call,Prendre l'appel,Rispondi alla chiamata,Rufen Sie an,Tomar llamada,Atender chamada,Çağrıyı Al,Принять звонок,電話に出る,전화 받기,接听电话,خذ مكالمة
+sc_123_2,Hang Up,Raccrocher,Appendere,Auflegen,Colgar,Desligar,Telefonu kapatmak,Вешать трубку,電話を切る,전화 끊기,挂断,يشنق
+sc_128_129_1,Take Call,Prendre l'appel,Rispondi alla chiamata,Rufen Sie an,Tomar llamada,Atender chamada,Çağrıyı Al,Принять звонок,電話に出る,전화 받기,接听电话,خذ مكالمة
+sc_128_129_2,Hang Up,Raccrocher,Appendere,Auflegen,Colgar,Desligar,Telefonu kapatmak,Вешать трубку,電話を切る,전화 끊기,挂断,يشنق
+sc_135_1,Left Cave,Grotte de gauche,Grotta sinistra,Linke Höhle,Cueva izquierda,Caverna Esquerda,Sol Mağara,Левая пещера,左の洞窟,왼쪽 동굴,左洞,الكهف الأيسر
+sc_135_2,Right Cave,Grotte de droite,Grotta destra,Rechte Höhle,cueva derecha,Caverna Direita,Sağ Mağara,Правая пещера,右の洞窟,오른쪽 동굴,右洞,الكهف الصحيح
+sc_138_1,Enter Cottage,Entrez dans le chalet,Entra nel cottage,Betreten Sie Cottage,Entrar en la cabaña,Entre na casa de campo,Kır Evi'ne girin,Войти в коттедж,コテージに入る,엔터 코티지,进入小屋,أدخل الكوخ
+sc_138_2,Keep Running,Continuez à courir,Continua a correre,Laufen Sie weiter,Sigue corriendo,Continue correndo,Koşmaya Devam Et,Продолжайте бежать,走り続ける,계속 달리다,继续奔跑,استمر في الجري
+sc_147_1,Grab Phone,Prendre le téléphone,Prendi il telefono,Schnapp dir das Telefon,Agarra el teléfono,Pegue o telefone,Telefonu Al,Захватить телефон,電話をつかむ,전화를 잡아,抢电话,الاستيلاء على الهاتف
+sc_147_2,Negotiate,Négocier,Negoziare,Verhandeln,Negociar,Negociar,Pazarlık etmek,Вести переговоры,交渉する,협상하다,谈判,تفاوض
+sc_154_156_1,Help Child,Aider l'enfant,Aiuta il bambino,Helfen Sie dem Kind,Ayudar al niño,Ajude a criança,Çocuğa Yardım Edin,Помогите ребенку,子供を助ける,어린이를 도와주세요,帮助孩子,مساعدة الطفل
+sc_154_156_2,Keep Running,Continuez à courir,Continua a correre,Laufen Sie weiter,Sigue corriendo,Continue correndo,Koşmaya Devam Et,Продолжайте бежать,走り続ける,계속 달리다,继续奔跑,استمر في الجري
+sc_159_160_1,Vlog,Vlog,Vlog,Vlog,Vlog,Vlog,Vlog,Влог,ビデオブログ,브이로그,视频博客,مدونة فيديو
+sc_159_160_2,Keep Running,Continuez à courir,Continua a correre,Laufen Sie weiter,Sigue corriendo,Continue correndo,Koşmaya Devam Et,Продолжайте бежать,走り続ける,계속 달리다,继续奔跑,استمر في الجري
+sc_165_168_1,Laugh,Rire,Ridere,Lachen,Reír,Rir,Gülmek,Смех,笑う,웃다,笑,يضحك
+sc_165_168_2,Slap,Gifler,Schiaffo,Schlagen,Bofetada,Tapa,Tokat,Шлепок,平手打ち,찰싹,拍击,يصفع
+sc_183_1,Rifle,Fusil,Fucile,Gewehr,Rifle,Rifle,Tüfek,Винтовка,ライフル,소총,步枪,بندقية
+sc_183_2,Knife,Couteau,Coltello,Messer,Cuchillo,Faca,Bıçak,Нож,ナイフ,칼,刀,سكين
+sc_190_1,Stab High,Poignarder haut,Punta in alto,Stich hoch,Puñalada alta,Esfaquear alto,Yüksek Bıçaklama,Удар Высокий,高く突き刺す,찌르는 높이,刺高,طعنة عالية
+sc_190_2,Stab Low,Poignarder bas,Pugnalato basso,Stich tief,Puñalada baja,Esfaquear baixo,Düşük Bıçaklama,Удар Низкий,ローを突き刺す,찌르기 낮음,刺低,طعنة منخفضة
+sc_196_200_1,Approach,Approche,Approccio,Ansatz,Acercarse,Abordagem,Yaklaşmak,Подход,アプローチ,접근하다,方法,يقترب
+sc_196_200_2,Avoid,Éviter,Evitare,Vermeiden,Evitar,Evitar,Kaçınmak,Избегать,避ける,피하다,避免,يتجنب
+sc_201_203_1,Get Car Keys,Obtenez des clés de voiture,Ottieni le chiavi della macchina,Holen Sie sich Autoschlüssel,Obtener las llaves del auto,Obtenha as chaves do carro,Araba Anahtarlarını Alın,Получить ключи от машины,車のキーを入手する,자동차 열쇠 받기,获取车钥匙,احصل على مفاتيح السيارة
+sc_201_203_2,Follow Matteo,Suivre Matteo,Segui Matteo,Folgen Sie Matteo,Sigue a Mateo,Siga Matteo,Matteo'yu takip edin,Следуйте за Маттео,マテオをフォローする,마테오 팔로우,关注马泰奥,اتبع ماتيو
+sc_207_1,Lift Mask,Masque liftant,Maschera liftante,Lift-Maske,Máscara de elevación,Máscara de elevação,Kaldırma Maskesi,Лифт-маска,リフトマスク,리프트 마스크,提升面膜,قناع الرفع
+sc_207_2,Leave,Partir,Partire,Verlassen,Dejar,Deixar,Ayrılmak,Оставлять,離れる,떠나다,离开,يترك
+sc_225_1,Understanding,Compréhension,Comprensione,Verständnis,Comprensión,Entendimento,Anlamak,Понимание,理解,이해,理解,فهم
+sc_225_2,Harsh,Rude,Duro,Harsch,Duro,Severo,Sert,Жесткий,ひどい,가혹한,残酷的,صارِم
+sc_228_230_1,Vlog,Vlog,Vlog,Vlog,Vlog,Vlog,Vlog,Влог,ビデオブログ,브이로그,视频博客,مدونة فيديو
+sc_228_230_2,Leave,Partir,Partire,Verlassen,Dejar,Deixar,Ayrılmak,Оставлять,離れる,떠나다,离开,يترك
+sc_237_246_1,Zanna Stays,Zanna reste,Zanna resta,Zanna bleibt,Estancias Zanna,Zanna fica,Zanna Konaklamaları,Занна остается,ザンナ ステイズ,잔나 스테이,扎娜住宿,زانا يبقى
+sc_237_246_2,Matteo Stays,Matteo reste,Matteo Resta,Matteo bleibt,Estancias de Mateo,Matteo permanece,Matteo Konaklamaları,Маттео остается,マテオ ステイズ,마테오 스테이,马特奥·斯泰斯,ماتيو يبقى
+sc_249_252_1,Get Off Trail,Sortez des sentiers battus,Scendi dal sentiero,Verlassen Sie die Spur,Salir del camino,Saia da trilha,Yoldan Çık,Сойти с тропы,トレイルを降りる,트레일에서 내리다,下车,اخرج من المسار
+sc_249_252_2,Stay On Trail,Restez sur la piste,Rimani sul sentiero,Bleiben Sie auf der Spur,Manténgase en el camino,Fique na trilha,İzinde Kalın,Оставайтесь на пути,ステイ・オン・トレイル,스테이 온 트레일,保持追踪,البقاء على درب
+sc_254_1,Left Cave,Grotte de gauche,Grotta sinistra,Linke Höhle,Cueva izquierda,Caverna Esquerda,Sol Mağara,Левая пещера,左の洞窟,왼쪽 동굴,左洞,الكهف الأيسر
+sc_254_2,Right Cave,Grotte de droite,Grotta destra,Rechte Höhle,cueva derecha,Caverna Direita,Sağ Mağara,Правая пещера,右の洞窟,오른쪽 동굴,右洞,الكهف الصحيح
+sc_255A_1,Wait,Attendez,Aspettare,Warten,Esperar,Espere,Beklemek,Ждать,待って,기다리다,等待,انتظر
+sc_255A_2,Distract,Distraire,Distrarre,Ablenken,Distraer,Distrair,Dikkatini dağıt,Отвлекать,気をそらす,괴롭히다,转移,يصرف الانتباه
+sc_263_1,Kick,Coup,Calcio,Kick,Patada,Chute,Tekme atmak,Пинать,キック,차기,踢,ركلة
+sc_263_2,Scratch,Gratter,Graffio,Kratzen,Rascar,Arranhar,Çizik,Царапать,傷,할퀴다,划痕,يخدش
+sc_278_1,Strategy,Stratégie,Strategia,Strategie,Estrategia,Estratégia,Strateji,Стратегия,戦略,전략,战略,الإستراتيجية
+sc_278_2,Stealth,Furtivité,Furtività,Heimlichkeit,Sigilo,Furtivo,Gizlilik,Скрытность,ステルス,몰래 하기,隐身,التخفي
+sc_279_1,Kill,Tuer,Uccisione,Töten,Matar,Matar,Öldürmek,Убийство,殺す,죽이다,杀,قتل
+sc_279_2,Spare,De rechange,Ricambio,Ersatzteil,Repuesto,Poupar,Kıyamamak,Запасной,スペア,여분의,空闲的,إضافي
+sc_294_295_1,Understanding,Compréhension,Comprensione,Verständnis,Comprensión,Entendimento,Anlamak,Понимание,理解,이해,理解,فهم
+sc_294_295_2,Harsh,Rude,Duro,Harsch,Duro,Severo,Sert,Жесткий,ひどい,가혹한,残酷的,صارِم
+sc_298_1,Battery,Batterie,Batteria,Batterie,Batería,Bateria,Pil,Батарея,バッテリー,배터리,电池,بطارية
+sc_298_2,Woods,Les bois,Boschi,Wald,Bosque,Bosques,Orman,Вудс,ウッズ,숲,伍兹,وودز
+sc_299_303_1,Follow Voice,Suivre la voix,Segui la voce,Folgen Sie der Stimme,Seguir voz,Siga a voz,Voice'u takip et,Следовать за голосом,フォローボイス,음성 따르기,跟随语音,اتبع الصوت
+sc_299_303_2,Stay Put,Restez sur place,Resta fermo,Bleiben Sie an Ort und Stelle,Quedarse en el mismo sitio,Fique onde está,Kıpırdama,Оставайся на месте,そのままでいてください,그대로 있어라,留在原地,ابق في مكانك
+sc_306_309_1,Follow Blood,Suivre le sang,Segui il sangue,Folge Blut,seguir sangre,Siga o Sangue,Kanı Takip Et,Следуй за кровью,フォローブラッド,피를 따르라,追随血液,اتبع الدم
+sc_306_309_2,Return To Matteo,Retour à Matteo,Ritorno a Matteo,Zurück zu Matteo,Volver a Mateo,Voltar para Matteo,Matteo'ya Dönüş,Вернуться к Маттео,マテオに戻る,마테오에게 돌아가기,返回马泰奥,العودة إلى ماتيو
+sc_310_1,Tell Matteo,Dites à Matteo,Dillo a Matteo,Sag es Matteo,Dile a Mateo,Diga ao Matteo,Matteo'ya söyle,Скажи Маттео,マテオに伝えてください,마테오에게 말하세요,告诉马泰奥,أخبر ماتيو
+sc_310_2,Don't Tell Matteo,Ne le dis pas à Matteo,Non dirlo a Matteo,Sag es Matteo nicht,No le digas a Matteo,Não conte ao Matteo,Matteo'ya söyleme,Не говори Маттео,マテオには言わないで,마테오에게 말하지 마세요,别告诉马特奥,لا تخبر ماتيو
+sc_314_316_1,Distrust Matteo,Méfiance envers Matteo,Diffidate di Matteo,Misstraue Matteo,Desconfía de Mateo,Desconfie de Matteo,Matteo'ya güvenme,Не доверять Маттео,マテオを信頼しない,불신 마테오,不信任马泰奥,عدم الثقة ماتيو
+sc_314_316_2,Trust Matteo,Faites confiance à Matteo,Fidati di Matteo,Vertrauen Sie Matteo,Confía en Mateo,Confie em Matteo,Matteo'ya güvenin,Доверься Маттео,マテオを信頼してください,마테오를 신뢰하세요,信任马泰奥,ثق ماتيو
+sc_322_323_1,Accept,Accepter,Accettare,Akzeptieren,Aceptar,Aceitar,Kabul etmek,Принимать,受け入れる,수용하다,接受,يقبل
+sc_322_323_2,Decline,Déclin,Declino,Abfall,Rechazar,Declínio,Reddetmek,Отклонить,衰退,감소,衰退,انخفاض
+sc_327_1,Swing,Balançoire,Oscillazione,Swing,Balancearse,Balanço,Sallanmak,Качать,スイング,그네,摇摆,يتأرجح
+sc_327_2,Jab,Coup,Colpo,Jab,Pinchazo,Golpe,yumruk,Джеб,ジャブ,갑자기 찌르기,戳,ضربة بالكوع
+sc_329_1,Swing,Balançoire,Oscillazione,Swing,Balancearse,Balanço,Sallanmak,Качать,スイング,그네,摇摆,يتأرجح
+sc_329_2,Jab,Coup,Colpo,Jab,Pinchazo,Golpe,yumruk,Джеб,ジャブ,갑자기 찌르기,戳,ضربة بالكوع
+sc_348_1,Attack Low,Attaque basse,Attacco basso,Angriff niedrig,Ataque bajo,Ataque Baixo,Saldırı Düşük,Атака низкая,攻撃力が低い,공격력 낮음,攻击力低,الهجوم منخفض
+sc_348_2,Attack High,Attaque élevée,Attacco alto,Angriff hoch,Ataque alto,Ataque alto,Yüksek Saldırı,Высокая атака,攻撃力が高い,공격 높음,攻击力高,الهجوم عالي
+sc_350_1,Attack Low,Attaque basse,Attacco basso,Angriff niedrig,Ataque bajo,Ataque Baixo,Saldırı Düşük,Атака низкая,攻撃力が低い,공격력 낮음,攻击力低,الهجوم منخفض
+sc_350_2,Attack High,Attaque élevée,Attacco alto,Angriff hoch,Ataque alto,Ataque alto,Yüksek Saldırı,Высокая атака,攻撃力が高い,공격 높음,攻击力高,الهجوم عالي
+sc_352_1,Kill,Tuer,Uccisione,Töten,Matar,Matar,Öldürmek,Убийство,殺す,죽이다,杀,قتل
+sc_352_2,Spare,De rechange,Ricambio,Ersatzteil,Repuesto,Poupar,Kıyamamak,Запасной,スペア,여분의,空闲的,إضافي
+sc_359_1,Stay,Rester,Rimanere,Bleiben,Permanecer,Ficar,Kalmak,Оставаться,滞在する,머무르다,停留,يقضي
+sc_359_2,Run,Courir,Correre,Laufen,Correr,Correr,Koşmak,Бегать,走る,달리다,跑步,يجري
+Continue,Continue,Continuer,Continua,Fortsetzen,Continuar,Continuar,Devam edin,Продолжить,続ける,계속,继续,استمرار
+Decisions Made,Decisions Made,Décisions Prises,Decisioni Fatte,Getroffene Entscheidungen,Decisiones Tomadas,Decisões Tomadas,Alınan Kararlar,Принятые Решения,決定された事項,내린 결정,作出决定,اتخاذ القرارات
+Ending_1,SALVATION,,,,,,,,,,,
+Ending_2,SALVATION,,,,,,,,,,,
+Ending_3,DAMNATION,,,,,,,,,,,
+Ending_4,DAMNATION,,,,,,,,,,,
+Ending_5,DAMNATION,,,,,,,,,,,
+Endings found,Endings found,Fins trouvées,Finali Scoperti,Endungen gefunden,Finales encontrados,Finais encontrados,Sonu bulundu,Найденные концовки,エンディング発見,발견된 엔딩,找到结尾,تم العثور على نهايات
+Exit Game,Exit Game,Sortir du Jeu,Esci,Spiel beenden,Salir del Juego,Sair do Jogo,Oyundan çıkış,Закончить Игру,ゲームをやめる,게임 출구,退出游戏,الخروج من اللعبة
+New Game,New Game,Nouveau Jeu,Nuova Partita,Neues Spiel,Nuevo Juego,Novo Jogo,Yeni oyun,Новая Игра,新しいゲーム,새로운 게임,新游戏,لعبة جديدة
+Paused_Choice,Paused choices,Choix en Pause,Decisioni con partita in pausa,Pausierte Entscheidungen,Decisiones en pausa,Escolhas pausadas,Bekletilmiş Seçimler,Приостановленные выборы,一時停止選択,일시중지된 선택,暂停选择,الخيارات المتوقفة
+Paused_title,"Narrative will pause for decision to be made. 
+Recommended for group play.","La narration se mettra en pause le temps que la décision soit prise.
+Recommandé pour jouer en groupe.","La storia si fermerà durante le decisioni.
+Consigliato quando si gioca in gruppo.","Die Erzählung wird pausiert, wenn eine Entscheidung getroffen werden muss. 
+Empfohlen für Gruppenspiele.","La narrativa se detendrá para que se tome la decisión. 
+Recomendado para el juego en grupo.","A narrativa terá uma pausa para a decisão ser feita.
+Recomendado para jogar em grupo.","Hikaye karar vermeniz için bekletilir.
+Grup olarak oynamanız tavsiye edilir.","Повествование будет поставлено на паузу для принятия решения. 
+Рекомендуется для групповой игры.","決断の度に物語は一時停止します。
+グループプレイにおすすめ","내러티브는 결정을 위해 일시중지 할 것입니다.
+그룹 플레이에 추천됩니다.","做决定时，叙述将暂停。
+推荐用于组队游戏。","سيتوقف السرد لاتخاذ القرار.
+ موصى به للعب الجماعي."
+Reset Defaults,Reset Defaults,Restaurer,Ripristina,Wiederherstelen,Restaurar,Restaurar,Son Ayarları Sıfırla,Сброс По Умолчанию,デフォルトにリセット,기본값으로 재설정하기,重置默认值,إعادة تعيين الافتراضيات
+Scenes Discovered,Scenes Discovered,Scènes Découvertes,Scene Scoperte,Entdeckte Szenen,Escenas descubiertas,Cenas Descobertas,Keşfedilen sahneler,Раскрытыe Сцены,シーン発見,발견된 장면,发现场景,تم اكتشاف المشاهد
+Settings,Settings,Paramètres,Impostazioni,Einstellungen,Ajustes,Definições,Ayarlar,Настройки,設定,설정,游戏设置,الاعدادات
+SkipScreen,You can now skip any previously viewed scenes by using the TAB button.,Vous pouvez maintenant ignorer les scènes précédemment visualisées à l'aide de la touche TAB,Ora puoi saltare tutte le scene visualizzate in precedenza utilizzando il tasto TAB,Mit der TAB Taste können Sie nun alle zuvor gesehenen Szenen überspringen.,Ahora puede omitir las escenas vistas previamente utilizando el botón TAB,Você pode pular as cenas visualizadas anteriormente usando a botão TAB,Artık TAB düğmesi kullanarak önceden görüntülenen herhangi bir sahneyi atlayabilirsiniz.,"Теперь вы можете пропустить любые ранее просмотренные сцены, используя кнопка TAB",TAB ボタンを使用で以前に閲覧されたシーンをスキップできるようになりました。,이제 TAB 버튼 사용하여 이전에 본 장면을 건너뛸 수 있습니다.,可使用 TAB 键跳过任何已查看过的场景,يمكنك الآن تخطي أي مشاهد تم عرضها مسبقًا باستخدام زر TAB
+Start,Start,Démarrer,Inizia,Start,Inicio,Começar,Başlangıç,Начать,スタート,시작,开始,بدء
+Timed_Choice,Timed Choices,Choix Chronométrés,Decisioni a tempo limitato,Zeitgesteuerte Entscheidungen,Decisiones cronometradas,Escolhas Cronometradas,Zaman Ayarlı Seçimler,Выборы С Лимитом По Времени,時限選択肢,시간 제한 선택,定时选择,الاختيارات الموقوتة
+Timed_Title,"Each decision occurs in real time with a timer counting down. 
+Recommended for a more immersive experience.","Chaque décision survient en temps réel avec un temps imparti.
+Recommandé pour une expérience plus immersive.","Ogni decisione occorre in tempo reale, il tempo è limitato da un conto alla rovescia.
+Consigliato per un'esperienza più coinvolgente.","Jede Entscheidung erfolgt in Echtzeit, wobei ein Timer herunterzählt. 
+Empfohlen für ein noch intensiveres Erlebnis.
+","Cada decisión ocurre en tiempo real con un temporizador en cuenta regresiva.
+Recomendado para una experiencia más inmersiva.","Cada decisão acontece em tempo real com uma contagem de tempo.
+Recomendado para uma experiência mais imersiva.","Her kararınız, geri sayım yapan bir zamanlayıcı ile gerçek zamanlı olarak gerçekleşir.
+Daha heyecanlı bir deneyim için tavsiye edilir.","Каждое решение происходит в режиме реального времени с обратным отсчетом таймера. 
+Рекомендуется для более захватывающего опыта.","各選択はリアルタイムで発生しタイマーがカウントを始めます。
+よりリアルな体験のために推奨。","각 결정은 타이머 카운트로 실시간으로 발생합니다.
+더 몰입 가능한 경험을 위해 추천됩니다.","每次决定都将实时发生，计时器将倒数计时。
+推荐用于更具沉浸感的体验。","كل قرار يحدث في الوقت الحقيقي مع عداد للعد التنازلي.
+موصى به لتجربة أكثر تشويقاً.
+"
+back,back,retour,indietro,Zurück,volver,voltar,Geri,назад,戻る,뒤로,返回,الرجوع
+brightness,brightness,luminosité,luminosità,Helligkeit,brillo,brilho,Parlaklık ayarı,яркость,明るさ,명도,亮度,السطوع
+display mode,display mode,mode d'affichage,modalità sisplay,Anzeigemodus,modo de visualización,modo de exibição,Görüntü biçimi,Режим Отображения,ディスプレイモード,디스플레이 모드,显示模式,وضع العرض
+full screen,full screen,plein écran,schermo intero,Vollbildmodus,pantalla completa,tela cheia,Tam ekran,полноэкранный,全画面表示,전체 화면,全屏,شاشة كاملة
+game_title,The Run,title_fr,title_it,title_de,title_es,title_ptbr,title_tr,title_ru,title_ja,title_ko,title_zhs,title_ar
+language,language,langue,lingua,Sprache,idioma,idioma,lisan,язык,言語,언어,语言,لغة
+large,large,grand,grande,groß,grande,ampliar,büyük,большой,大きい,큰,大,كبير
+loading,loading,chargement,caricamento,wird geladen,cargando,carregando,Yükleniyor,загрузка,ローディング中,로딩 중,载入中,جار التحميل
+no,no,non,no,nein,no,não,numara,нет,番号,아니요,否,لا
+normal,normal,normal,normale,normal,normal,normal,normal,обычный,正常,정상,普通,عادي
+off,off,désactivé,off,aus,apagado,desligar,kapalı,выключить,オフ,끄기,关闭,إيقاف
+on,on,activé,on,an,encendido,ligar,açık,на,オン,켜기,打开,تشغيل
+pause choices,Paused Choices,mettre en pause les choix,scelte in pausa,Pause Optionen,pausar decisiones,escolhas para pausar,Seçeneklerini beklet,выбор паузы,停止選択,선택 일시중지,暂停选择,وقف الخيارات
+popupfirst,All your saved progress will be lost,Votre progression sauvegardée sera perdue,Tutti i tuoi progressi salvati andranno persi,Alle Ihre gespeicherten Spielfortschritte gehen verloren,Se perderá todo su progreso guardado.,Todo o seu trabalho salvo será perdido,Tüm kaydedilmiş ilerlemeniz kaybolacak,Весь ваш сохраненный прогресс будет утерян,保存されたすべての内容は失われます,당신의 모든 공유 된 진행 상황은 손실됩니다,所有已保存进度将会丢失,سيضيع كل تقدمك المحفوظ
+popupsecond,Would you like to continue?,Voulez-vous continuer?,Vuoi continuare?,Möchten Sie das Spiel fortsetzen?,¿Le gustaría continuar?,Você gostaria de continuar?,Devam etmek ister misin?,Желаете продолжить?,続行しますか？,계속 하시겠습니까?,你想继续吗？,هل ترغب في الاستمرار؟
+press,press,appuyer,premere,Drücken Sie,presionar,pressione,basınız,Нажмите,押す,누르기,点击,صحافة
+resolution,resolution,résolution,risoluzione,Auflösung,resolución,resolução,çözünürlük,разрешение,解像度,해결,解析度,الدقة
+resume,resume,reprendre,riprendi,fortsetzen,reanudar,retomar,devam edin,продолжить,再スタート,다시 시작하기,恢复,سيرة ذاتية
+select_text,select,sélectionner,Selezionare,auswählen,Seleccione,Selecione,seçme,Выбрать,選択する,고르다,选择,تحديد
+skip,skip,sauter,salta,überspringen,saltar,pular,atlayın,пропустить,スキップ,넘기기,跳过,تخطى
+small,small,petit,piccolo,klein,pequeña,pequeno,küçük,маленький,小さい,작은,小,صغير
+stats,stats,statistiques,statistiche,Statistiken,estadísticas,estatísticas,istatistikler,татистика,統計,통계,统计,احصائيات
+subtitle,subtitle,sous-titre,sottotitolo,Untertitel,subtítulos,legenda,alt yazı,субтитры,字幕,자막,字幕,ترجمة
+subtitle size,subtitle size,taille de sous-titre,dimensione dei sottotitoli,Untertitelgröße,tamaño de subtítulos,tamanho da legenda,altyazı boyutu,размер субтитров,字幕サイズ,자막 크기,字幕尺寸,حجم الترجمة
+to select,to select,pour sélectionner,per selezionare,zur Auswahl,para seleccionar,selecionar,seçim,выбрать,選ぶ,선택하려면,选择,تحديد
+to toggle,to toggle,pour basculer,per attivare,hin- und herschalten,para alternar,alternar,geçiş yapmak,переключить,トグル,토글하려면,切换,تبديل
+volume,volume,volume,volume,Lautstärke,volumen,volume,Ses ayarı,громкость,音量,용량,音量,الصوت
+windowed,windowed,mode fenêtré,riquadrato,fensteraktiv,con ventana,modo janela,pencereli,оконный,ウィンドウ,창문,窗口,نوافذ
+yes,yes,oui,SÌ,Ja,Sí,sim,Evet,да,はい,예,是的,نعم
+endGame,End Game,Fin du jeu,Fine del gioco,Spiel beenden,Fin del juego,Fim do jogo,Oyunu Sonlandır,Конец игры,エンドゲーム,게임 종료,游戏结束,نهاية اللعبة
+CheckpointText,Restart from checkpoint,Retourner au checkpoint,Ripartire dal checkpoint,Starten Sie vom Kontrollpunkt aus neu,Reiniciar desde el punto de control,Reiniciar do ponto de verificação,Kontrol noktasından yeniden başlat,Перезапуск с контрольной точки,チェックポイントから再開,체크포인트에서 다시 시작,从检查点重新启动,إعادة التشغيل من نقطة التفتيش
+DeathsText,Deaths,Décès,Deceduti,Todesfälle,Fallecidos,Mortes,Ölümler,Летальные исходы,死亡者（数,사망자,死亡人数,حالات الوفاة
+zoom_in,Zoom In,Zoomer,Ingrandisci,Vergrößern,Dar un golpe de zoom,Ampliar,Yakınlaştır,Увеличить масштаб,ズームイン,확대,放大,تكبير
+zoom_out,Zoom Out,Zoom arrière,Rimpicciolisci,Herauszoomen,Alejar,Diminuir zoom,Uzaklaştır,Уменьшить масштаб,ズームアウト,축소,缩小,تصغير
+pan_key,Pan,Poêle,Padella,Pfanne,Cacerola,Frigideira,Tava,Кастрюля,パン,팬,平底锅,مِقلاة
+total_deaths,Total Deaths,Total des décès,Morti totali,Totale dei decès,Muertes totales,Total de mortes,Toplam Ölümler,Всего смертей,総死亡者数,총 사망자,总死亡人数,إجمالي الوفيات
+total_decisions_made,Total Decisions Made,Total des décisions prises,Decisioni totali prese,Insgesamt getroffene Entscheidungen,Total de decisiones tomadas,Total de decisões tomadas,Alınan Toplam Kararlar,Всего принятых решений,Всего призов по решениям,총 결정 사항,做出的总决定,إجمالي القرارات المتخذة

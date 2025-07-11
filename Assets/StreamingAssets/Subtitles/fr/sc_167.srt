@@ -1,0 +1,49 @@
+1
+00:00:00,920 --> 00:00:02,120
+<i>Salut mec.</i>
+
+2
+00:00:02,120 --> 00:00:03,600
+Salut, ça va?
+
+3
+00:00:03,600 --> 00:00:07,719
+<i>Mets le turbo, tu vas rater le coup d'envoi.
+Je vais te prendre une bière et un burger</i>
+
+4
+00:00:07,719 --> 00:00:10,359
+<i>Tu manges encore de la viande</i>
+<i>et tout ça, hein?</i>
+
+5
+00:00:10,359 --> 00:00:13,080
+Ouais, merci.
+J'arrive bientôt.
+
+6
+00:00:13,080 --> 00:00:15,480
+<i>J'ai hâte,</i>
+<i>mec.</i>
+
+7
+00:00:15,839 --> 00:00:17,239
+A plus.
+
+8
+00:00:17,239 --> 00:00:18,839
+<i>Au revoir, frérot.</i>
+
+9
+00:00:24,160 --> 00:00:26,160
+Vous vous êtes remis en condition?
+
+10
+00:00:27,839 --> 00:00:30,440
+Finissons-en.
+J'ai un rendez-vous.
+
+11
+00:00:37,000 --> 00:00:38,600
+Bienvenu à nouveau, Cam.
+

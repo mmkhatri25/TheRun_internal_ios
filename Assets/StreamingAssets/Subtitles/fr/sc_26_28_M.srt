@@ -1,0 +1,45 @@
+1
+00:00:08,519 --> 00:00:10,119
+De quoi j'ai l'air, Sasha?
+
+2
+00:00:10,400 --> 00:00:12,000
+Sans commentaire.
+
+3
+00:00:24,640 --> 00:00:27,440
+Votre smartwatch détecte une augmentation
+de la fréquence cardiaque.
+
+4
+00:00:27,440 --> 00:00:29,600
+Si vous faites du sport,
+hydratez-vous.
+
+5
+00:00:29,600 --> 00:00:31,719
+Si ce n'est pas le cas,
+détendez-vous.
+
+6
+00:00:31,719 --> 00:00:33,280
+Ouais, merci...
+
+7
+00:00:36,320 --> 00:00:38,799
+Puis-je vous suggérer de travailler
+sur votre projet?
+
+8
+00:00:38,799 --> 00:00:41,039
+Ou une activité qui vous détend?
+
+9
+00:00:41,039 --> 00:00:43,439
+J'ai quelques tutoriels de méditation
+si vous le souhaitez.
+
+10
+00:00:43,439 --> 00:00:45,920
+Je sais quoi faire Sasha.
+

@@ -1,0 +1,18 @@
+1
+00:00:01,280 --> 00:00:03,080
+Appartement deux - verouillé.
+
+2
+00:00:08,080 --> 00:00:09,880
+Appartement un - déverouillé.
+
+3
+00:00:09,880 --> 00:00:12,480
+Sasha, commande un taxi
+pour le stade de foot.
+
+4
+00:00:13,439 --> 00:00:16,160
+C'est fait pour vous.
+Amusez-vous bien.
+

@@ -1,0 +1,76 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <uie:ObjectField label="Spline Container" binding-path="splineContainer" name="splineContainer" type="UnityEngine.Splines.SplineContainer, Unity.Splines" />
+    <uie:ObjectField label="Material" binding-path="m_Material" name="material" type="UnityEngine.Material, UnityEngine.CoreModule" />
+    <ui:Toggle label="Recursive Material" binding-path="_recursiveMaterial" name="recursivceMaterial" tooltip="If true, this renderer&apos;s material value will also be applied to startImages and endImages." style="padding-left: 20px;" />
+    <uie:ColorField label="Color" value="#FFFFFFFF" name="color" binding-path="m_Color" />
+    <uie:GradientField label="Color Gradient" name="colorGradient" binding-path="_colorGradient" />
+    <ui:Toggle label="Recursive Color" binding-path="_recursiveColor" name="recursivceColor" tooltip="If true, this renderer&apos;s color will also be applied to startImages and endImages." style="padding-left: 20px;" />
+    <ui:Toggle label="Raycast Target" binding-path="m_RaycastTarget" name="raycastTarget" />
+    <ui:Foldout text="Raycast Padding" name="raycastPaddingFoldout" value="false">
+        <ui:Vector4Field binding-path="m_RaycastPadding" name="raycastPadding" />
+    </ui:Foldout>
+    <ui:Toggle label="Maskable" binding-path="m_Maskable" name="maskable" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 20px; max-height: 20px; min-height: 20px;" />
+    <ui:FloatField label="Width" value="6" binding-path="_width" name="width" tooltip="Width of this spline renderer" is-delayed="false" />
+    <uie:CurveField label="Width Curve" binding-path="_widthCurve" tooltip="Multiplier for the width of this spline. [0..1]" name="widthCurve" />
+    <ui:VisualElement name="lineTextureArea" style="background-color: rgba(0, 0, 0, 0);">
+        <ui:Toggle label="Keep Zero Z" binding-path="_keepZeroZ" name="keepZeroZ" tooltip="Keep all  z position and transform.localPosition.z as 0. This keep the spline flatten on canvas." />
+        <ui:Toggle label="Keep Billboard" binding-path="_keepBillboard" name="keepBillboard" tooltip="Keep all normals of the vertices pointing towards the screen direction. This ensures that the spline is rendered as a billboard, even if you set odd rotations to knots." />
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 20px; max-height: 20px; min-height: 20px;" />
+        <ui:VisualElement name="presetButtons" style="flex-grow: 1; flex-direction: row; flex-shrink: 0;">
+            <ui:Label text="Line Texture Preset" style="-unity-text-align: middle-left; align-self: stretch;" />
+            <ui:Button text="Default (Anti-Alised)" display-tooltip-when-elided="true" name="default" tooltip="Default anti-aliased texture. This is simple trick using a slightly blurred image." style="height: 30px; max-height: 30px; min-height: 30px; flex-grow: 1;" />
+            <ui:Button text="UV Test" display-tooltip-when-elided="true" name="uvTest" tooltip="Cheker texture with numbers. This is useful if you want to see how UVs are applied." style="height: 30px; max-height: 30px; min-height: 30px; flex-grow: 1;" />
+            <ui:Button text="Custom" display-tooltip-when-elided="true" name="custom" tooltip="Custom texture. If you set the texture property via script, it&apos;s automatically changed." style="height: 30px; max-height: 30px; min-height: 30px; flex-grow: 1;" />
+        </ui:VisualElement>
+        <uie:ObjectField label="Texture" binding-path="m_Texture" name="texture" type="UnityEngine.Texture, UnityEngine.CoreModule" style="padding-left: 20px;" />
+        <ui:SliderInt picking-mode="Ignore" label="Resolution" value="2" high-value="10" low-value="1" name="resolution" binding-path="_resolution" show-input-field="true" />
+        <ui:Label tabindex="-1" text="Vertex Count" display-tooltip-when-elided="true" name="vertexCount" tooltip="Unity vertex limit is 65,000. keep vertex count lower than this." style="padding-left: 20px; -unity-text-align: middle-left;" />
+        <ui:MinMaxSlider picking-mode="Ignore" label="Clip Range" min-value="0" max-value="1" low-limit="0" high-limit="1" name="clipRange" binding-path="_clipRange" />
+        <ui:EnumField label="UV Mode" type="UI_Spline_Renderer.UVMode, UISplineRenderer" binding-path="_uvMode" name="uvMode" />
+    </ui:VisualElement>
+    <ui:VisualElement name="startImageArea" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 20px; max-height: 20px; min-height: 20px;" />
+        <ui:Vector2Field label="UV Multiplier" binding-path="_uvMultiplier" name="uvMultiplier" x="1" y="1" />
+        <ui:Vector2Field label="UV Offset" binding-path="_uvOffset" name="uvOffset" tooltip="Line texture’s UV offset. You can make simple texture animations using this property. " />
+        <ui:VisualElement name="presetButtons" style="flex-grow: 1; flex-shrink: 0; flex-direction: row;">
+            <ui:Label text="Start Image Preset" style="-unity-text-align: middle-left; align-self: stretch;" />
+            <ui:VisualElement name="vert" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); justify-content: space-around;">
+                <ui:VisualElement name="hor1" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row; height: 30px; max-height: 30px; min-height: 30px;">
+                    <ui:Button text="None" display-tooltip-when-elided="true" name="none" style="flex-grow: 1;" />
+                    <ui:Button text="Triangle" display-tooltip-when-elided="true" name="triangle" style="flex-grow: 1;" />
+                    <ui:Button text="Arrow" display-tooltip-when-elided="true" name="arrow" style="flex-grow: 1;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="hor2" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row; height: 30px; max-height: 30px; min-height: 30px;">
+                    <ui:Button text="Empty Circle" display-tooltip-when-elided="true" name="emptyCircle" style="flex-grow: 1;" />
+                    <ui:Button text="Filled Circle" display-tooltip-when-elided="true" name="filledCircle" style="flex-grow: 1;" />
+                    <ui:Button text="Custom" display-tooltip-when-elided="true" name="custom" style="flex-grow: 1;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <uie:ObjectField label="Start Image Sprite" binding-path="_startImageSprite" name="sprite" type="UnityEngine.Sprite, UnityEngine.CoreModule" style="padding-left: 20px;" />
+        <ui:FloatField label="Start Image Size" value="32" binding-path="_startImageSize" name="size" style="padding-left: 20px;" />
+        <ui:FloatField label="Start Image Offset" value="0" binding-path="_startImageOffset" name="offset" tooltip="Offset from first point of spline. If the value is greater than 0, it moves along the spline. Otherwise, it moves backward relative to current rotation." style="padding-left: 20px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="endImageArea" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); height: 20px; max-height: 20px; min-height: 20px;" />
+        <ui:VisualElement name="presetButtons" style="flex-grow: 1; flex-shrink: 0; flex-direction: row;">
+            <ui:Label text="End Image Preset" style="-unity-text-align: middle-left; align-self: stretch;" />
+            <ui:VisualElement name="vert" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); justify-content: space-around;">
+                <ui:VisualElement name="hor1" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row; height: 30px; max-height: 30px; min-height: 30px;">
+                    <ui:Button text="None" display-tooltip-when-elided="true" name="none" style="flex-grow: 1;" />
+                    <ui:Button text="Triangle" display-tooltip-when-elided="true" name="triangle" style="flex-grow: 1;" />
+                    <ui:Button text="Arrow" display-tooltip-when-elided="true" name="arrow" style="flex-grow: 1;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="hor2" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row; height: 30px; max-height: 30px; min-height: 30px;">
+                    <ui:Button text="Empty Circle" display-tooltip-when-elided="true" name="emptyCircle" style="flex-grow: 1;" />
+                    <ui:Button text="Filled Circle" display-tooltip-when-elided="true" name="filledCircle" style="flex-grow: 1;" />
+                    <ui:Button text="Custom" display-tooltip-when-elided="true" name="custom" style="flex-grow: 1;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <uie:ObjectField label="End Image Sprite" binding-path="_endImageSprite" name="sprite" type="UnityEngine.Sprite, UnityEngine.CoreModule" style="padding-left: 20px;" />
+        <ui:FloatField label="End Image Size" value="32" binding-path="_endImageSize" name="size" style="padding-left: 20px;" />
+        <ui:FloatField label="End Image Offset" value="0" binding-path="_endImageOffset" name="offset" tooltip="Offset from last point of spline. If the value is smaller than 0, it moves along the spline. Otherwise, it moves forward relative to current rotation." style="padding-left: 20px;" />
+    </ui:VisualElement>
+</ui:UXML>

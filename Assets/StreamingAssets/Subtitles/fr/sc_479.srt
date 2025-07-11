@@ -1,0 +1,34 @@
+1
+00:00:03,839 --> 00:00:04,839
+Bien joué.
+
+2
+00:00:04,839 --> 00:00:07,440
+Je savais que les ciseaux
+seraient un coup de fillette.
+
+3
+00:00:07,440 --> 00:00:09,640
+Ils sont tous aussi
+forts les uns que les autres.
+
+4
+00:00:10,359 --> 00:00:11,759
+Bien joué à nouveau.
+
+5
+00:00:11,759 --> 00:00:12,839
+Allons-y.
+
+6
+00:00:14,880 --> 00:00:15,720
+Pierre.
+
+7
+00:00:15,720 --> 00:00:16,519
+Feuille.
+
+8
+00:00:16,519 --> 00:00:17,320
+Ciseaux.
+

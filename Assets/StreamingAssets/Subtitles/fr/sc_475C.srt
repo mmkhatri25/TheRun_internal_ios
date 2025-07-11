@@ -1,0 +1,32 @@
+1
+00:00:00,400 --> 00:00:03,279
+Félicitations Mike.
+Vous avez terminé le jeu.
+
+2
+00:00:08,400 --> 00:00:10,199
+Je suis désolé Cam,
+j'espère que tu-
+
+3
+00:00:10,199 --> 00:00:11,679
+Vas te faire foutre.
+
+4
+00:00:18,000 --> 00:00:20,719
+Vous perdez Cam.
+Vous devez payer le prix.
+
+5
+00:00:21,600 --> 00:00:22,800
+Prix?
+
+6
+00:00:24,320 --> 00:00:26,199
+Qu'est-ce que vous avez fait?
+
+7
+00:00:26,199 --> 00:00:29,199
+Nous avons pris le contrôle.
+Le jeu est réel.
+

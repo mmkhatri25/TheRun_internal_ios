@@ -1,0 +1,22 @@
+1
+00:00:00,440 --> 00:00:01,840
+Allons-y!
+
+2
+00:00:05,360 --> 00:00:08,560
+Bien joué.
+Vous avez fait preuve de compétences.
+
+3
+00:00:08,919 --> 00:00:10,560
+Trop juste, putain.
+
+4
+00:00:10,560 --> 00:00:12,759
+Il est presque temps
+pour le dernier jeu.
+
+5
+00:00:19,679 --> 00:00:21,079
+J'ai hâte.
+

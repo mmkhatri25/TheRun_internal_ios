@@ -1,0 +1,22 @@
+1
+00:00:00,360 --> 00:00:04,000
+Choisissez une catégorie.
+Solo ou Compétitif.
+
+2
+00:00:06,000 --> 00:00:07,200
+Donc...
+
+3
+00:00:07,360 --> 00:00:10,160
+Solo - Je joue contre moi-même.
+
+4
+00:00:10,919 --> 00:00:14,480
+Compétitif - je joue contre un adversaire.
+
+5
+00:00:15,800 --> 00:00:18,199
+Très bien.
+Vous avez déjà fait ça?
+

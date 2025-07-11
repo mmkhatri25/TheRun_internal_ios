@@ -1,0 +1,36 @@
+1
+00:00:00,200 --> 00:00:02,839
+Rose, vous devez maintenant
+payer votre prix?
+
+2
+00:00:02,839 --> 00:00:04,320
+Non. Non!
+
+3
+00:00:05,280 --> 00:00:07,360
+J'ai vu ce que vous faites
+aux perdants. S'il vous plaît.
+
+4
+00:00:07,360 --> 00:00:08,560
+Le faites pas.
+
+5
+00:00:08,560 --> 00:00:09,919
+Fin du jeu.
+
+6
+00:00:09,919 --> 00:00:11,720
+Non, non, non,
+non, non. S'il vous plaît!
+
+7
+00:00:11,720 --> 00:00:14,720
+S'il vous plaît, s'il vous plaît, pitié, non!
+Je veux pas mourir. Pitié, non!
+
+8
+00:00:14,720 --> 00:00:16,199
+S'il vous plaît, le faites pas, non!
+

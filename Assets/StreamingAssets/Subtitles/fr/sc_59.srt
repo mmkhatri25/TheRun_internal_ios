@@ -1,0 +1,39 @@
+1
+00:00:01,000 --> 00:00:02,000
+Solo.
+
+2
+00:00:03,080 --> 00:00:04,080
+Pardon?
+
+3
+00:00:05,280 --> 00:00:07,240
+Solo.
+C'est quoi le jeu?
+
+4
+00:00:10,320 --> 00:00:12,039
+Vous avez encore un choix.
+
+5
+00:00:12,039 --> 00:00:14,400
+'Trouver le meurtrier'
+ou 'Action ou vérité'.
+
+6
+00:00:14,400 --> 00:00:16,320
+Auquel aimeriez-vous jouer?
+
+7
+00:00:17,079 --> 00:00:18,480
+Comment ça marche?
+
+8
+00:00:18,640 --> 00:00:22,000
+Vous verrez. Je me suis donné
+beaucoup de mal pour vous les préparer.
+
+9
+00:00:22,600 --> 00:00:23,600
+Euh...
+

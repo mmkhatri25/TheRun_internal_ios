@@ -1,0 +1,5 @@
+1
+00:00:03,279 --> 00:00:05,759
+Je sais que vous pensez que c'est pas le cas,
+mais je vous dis que c'est le cas.
+

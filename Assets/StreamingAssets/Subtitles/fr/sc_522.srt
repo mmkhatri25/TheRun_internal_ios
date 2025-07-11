@@ -1,0 +1,41 @@
+1
+00:00:00,040 --> 00:00:01,840
+Félicitations Hilda.
+
+2
+00:00:01,840 --> 00:00:03,640
+Vous avez terminé le jeu.
+
+3
+00:00:10,640 --> 00:00:12,240
+Vous perdez Cam.
+
+4
+00:00:12,240 --> 00:00:15,000
+Vous connaissez le prix et
+ce que vous devez nous donner.
+
+5
+00:00:15,839 --> 00:00:17,160
+Bien sûr.
+
+6
+00:00:24,760 --> 00:00:26,960
+Sasha, joue de la musique.
+
+7
+00:00:28,000 --> 00:00:29,199
+Quelque chose...
+
+8
+00:00:30,280 --> 00:00:31,480
+... de triste.
+
+9
+00:00:32,159 --> 00:00:34,479
+J'ai la chanson parfaite.
+
+10
+00:00:37,359 --> 00:00:39,560
+[♫ Musique triste ♫]
+

@@ -1,0 +1,30 @@
+1
+00:00:00,560 --> 00:00:01,960
+Trouver le meurtrier?
+
+2
+00:00:02,439 --> 00:00:04,040
+Un meurtre a eu lieu.
+
+3
+00:00:04,040 --> 00:00:08,439
+Un homme a été égorgé d'une oreille
+à l'autre et l'agresseur est en fuite.
+
+4
+00:00:10,320 --> 00:00:12,560
+Je présente les suspects.
+
+5
+00:00:15,720 --> 00:00:17,719
+Assez moche comme bande.
+
+6
+00:00:18,239 --> 00:00:22,160
+Vous avez trois questions oui/non
+à poser pour pouvoir deviner le meurtrier.
+
+7
+00:00:22,160 --> 00:00:23,879
+Quelle est votre première?
+

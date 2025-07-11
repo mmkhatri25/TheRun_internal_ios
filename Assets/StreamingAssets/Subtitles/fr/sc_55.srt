@@ -1,0 +1,31 @@
+1
+00:00:00,200 --> 00:00:04,320
+Choisissez une catégorie.
+Solo, Compétitif ou Arcade.
+
+2
+00:00:05,240 --> 00:00:08,759
+Choisissez bien. Vous ne pouvez
+chaque catégorie qu'une seule fois.
+
+3
+00:00:09,519 --> 00:00:10,519
+Donc...
+
+4
+00:00:11,320 --> 00:00:14,119
+Solo - Je joue contre moi-même.
+
+5
+00:00:14,919 --> 00:00:17,160
+Compétitif - je joue contre un adversaire.
+
+6
+00:00:17,160 --> 00:00:20,480
+... et Arcade c'est un jeu vidéo?
+
+7
+00:00:21,239 --> 00:00:23,640
+Très bien.
+Vous avez déjà fait ça?
+

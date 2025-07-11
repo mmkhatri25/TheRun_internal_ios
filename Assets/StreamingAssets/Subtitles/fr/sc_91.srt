@@ -1,0 +1,31 @@
+1
+00:00:00,200 --> 00:00:03,680
+Je vais partir bientôt.
+Je dois juste finir un truc.
+
+2
+00:00:03,960 --> 00:00:05,759
+J'ai hâte de ce verre.
+
+3
+00:00:05,759 --> 00:00:08,359
+<i>Moi aussi, frérot.</i>
+<i>On aurait du le faire y a longtemps.</i>
+
+4
+00:00:08,599 --> 00:00:09,800
+Ouais.
+
+5
+00:00:10,640 --> 00:00:11,839
+Santé.
+
+6
+00:00:25,839 --> 00:00:27,640
+J'ai pas pu le faire.
+
+7
+00:00:27,960 --> 00:00:29,960
+S'il vous plaît, laissez le
+en dehors de ça.
+

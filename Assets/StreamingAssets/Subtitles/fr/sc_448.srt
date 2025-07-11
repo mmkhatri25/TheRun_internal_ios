@@ -1,0 +1,12 @@
+1
+00:00:03,960 --> 00:00:05,160
+Classique.
+
+2
+00:00:05,160 --> 00:00:06,759
+D'accord, on a compris.
+
+3
+00:00:06,759 --> 00:00:08,759
+Tu fais des études de psychologie.
+

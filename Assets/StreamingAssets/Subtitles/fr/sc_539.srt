@@ -1,0 +1,288 @@
+1
+00:00:03,640 --> 00:00:05,759
+Pam!
+Un plaisir de te revoir.
+
+2
+00:00:06,120 --> 00:00:08,519
+Dans de plus agréables circonstances.
+
+3
+00:00:08,519 --> 00:00:09,720
+Avec un peu de chance.
+
+4
+00:00:10,599 --> 00:00:12,199
+On peut s'y mettre directement
+les gars?
+
+5
+00:00:12,199 --> 00:00:13,599
+J'enchaine les rendez-vous aujourd'hui.
+
+6
+00:00:13,599 --> 00:00:14,800
+Certainement.
+
+7
+00:00:15,279 --> 00:00:17,280
+Merci pour votre temps,
+les gars.
+
+8
+00:00:17,280 --> 00:00:20,679
+Pam, tu as bien évidemment testé
+l'expérience "Hello Stranger" aujourd'hui.
+
+9
+00:00:20,679 --> 00:00:22,719
+Tobias, tu as prévu de le faire
+aussi?
+
+10
+00:00:22,719 --> 00:00:25,920
+Non, je m'en remets
+à Pamela pour ça.
+
+11
+00:00:25,920 --> 00:00:28,440
+Nous avons investi dans
+suffisamment d'entreprises ensemble.
+
+12
+00:00:28,440 --> 00:00:29,719
+Trop gentil.
+
+13
+00:00:29,719 --> 00:00:31,960
+Alors Pam,
+qu'est-ce que t'en penses?
+
+14
+00:00:31,960 --> 00:00:33,840
+C'était euh...
+
+15
+00:00:35,200 --> 00:00:36,600
+... intéressant.
+
+16
+00:00:36,600 --> 00:00:38,799
+Tu répondras aux trous
+dans ma compréhension?
+
+17
+00:00:38,799 --> 00:00:40,079
+Bien sûr.
+
+18
+00:00:40,079 --> 00:00:43,719
+Donc, "Hello Stranger" est une
+
+19
+00:00:43,719 --> 00:00:45,719
+expérience de jeu immersive.
+
+20
+00:00:45,719 --> 00:00:47,280
+... et une communauté mondiale.
+
+21
+00:00:47,280 --> 00:00:51,359
+Où les utilisateurs peuvent
+connecter socialement au hasard.
+
+22
+00:00:51,359 --> 00:00:54,520
+mais aussi chaque jour...
+
+23
+00:00:54,520 --> 00:00:57,560
+... un jeu de rôle hacker/otage
+a lieu.
+
+24
+00:00:57,560 --> 00:00:58,560
+D'accord.
+
+25
+00:00:58,560 --> 00:01:01,560
+Où un hacker masqué "prends le contrôle"
+de la smart home de l'utilisateur.
+
+26
+00:01:01,560 --> 00:01:03,359
+... et ensuite ils doivent
+jouer à des jeux tous seuls
+
+27
+00:01:03,359 --> 00:01:06,519
+ou contre les autres utilisateurs
+pour survivre.
+
+28
+00:01:06,519 --> 00:01:10,280
+Les expériences immersives
+sont tendances aujourd'hui.
+
+29
+00:01:10,280 --> 00:01:13,000
+C'est comme un escape-room
+basé à la maison.
+
+30
+00:01:13,000 --> 00:01:14,000
+Exactement.
+
+31
+00:01:14,000 --> 00:01:16,040
+Ou une alternative aux soirées
+"meurtre et mystère"
+
+32
+00:01:16,040 --> 00:01:18,040
+si vous avez pas
+d'amis avec qui jouer.
+
+33
+00:01:18,040 --> 00:01:20,519
+Vous pouvez vous faire
+des amis en ligne...
+
+34
+00:01:20,519 --> 00:01:21,560
+Super.
+
+35
+00:01:21,560 --> 00:01:25,840
+Dis-moi en plus sur
+l'application qui "prend le contrôle"
+
+36
+00:01:25,840 --> 00:01:27,640
+des smart homes des gens?
+
+37
+00:01:27,640 --> 00:01:30,040
+Ça ressemble terriblement
+à un vrai piratage.
+
+38
+00:01:30,040 --> 00:01:31,959
+Il n'y a rien de malveillant.
+
+39
+00:01:31,959 --> 00:01:35,680
+Nous obtenons toutes les autorisations
+des utilisateurs.
+
+40
+00:01:35,680 --> 00:01:38,000
+Enfin, qu'est-ce que la vie privé
+de toute façon aujourd'hui?
+
+41
+00:01:39,319 --> 00:01:42,519
+Les gens cliquent sur "tout accepter"
+chaque fois qu'ils ont une notification de cookies.
+
+42
+00:01:42,519 --> 00:01:45,000
+Donc dans la version
+que j'ai testé ce soir,
+
+43
+00:01:45,000 --> 00:01:46,599
+qui était la personne masquée?
+
+44
+00:01:46,599 --> 00:01:48,439
+... et les autres gens
+que j'ai rencontré?
+
+45
+00:01:48,439 --> 00:01:51,280
+Rose et Mike et Hilda?
+
+46
+00:01:51,280 --> 00:01:52,959
+Mes employés.
+
+47
+00:01:52,959 --> 00:01:54,959
+Ouais, ils jouaient le rôle
+d'autres utilisateurs.
+
+48
+00:01:54,959 --> 00:01:57,000
+Des performances convaincantes.
+
+49
+00:01:57,519 --> 00:02:01,120
+Donc tu as des testeurs
+et une équipe de programmeurs.
+
+50
+00:02:01,120 --> 00:02:04,359
+Tu as tout financé toi-même
+jusqu'ici?
+
+51
+00:02:04,359 --> 00:02:05,359
+Ouais.
+
+52
+00:02:05,359 --> 00:02:08,520
+... et avec notre investissement,
+tu veux agrandir cette équipe?
+
+53
+00:02:08,520 --> 00:02:09,840
+Non, non, non.
+
+54
+00:02:09,840 --> 00:02:13,840
+Votre investissement serait
+pour la stratégie et le marketing.
+
+55
+00:02:13,840 --> 00:02:16,240
+Pas d'inquiétudes
+sur l'agrandissement de l'équipe.
+
+56
+00:02:16,240 --> 00:02:20,680
+J'ai des contacts dans l'externalisation
+qui peuvent nous économiser des milliers.
+
+57
+00:02:21,599 --> 00:02:24,919
+On n'est pas là pour créer des
+ateliers de travail clandestins de logiciels.
+
+58
+00:02:24,919 --> 00:02:26,919
+Absolument pas.
+
+59
+00:02:26,919 --> 00:02:29,080
+Ouais!
+Non, non, bien sûr.
+
+60
+00:02:29,080 --> 00:02:30,439
+Je ne suggérais pas-
+
+61
+00:02:30,439 --> 00:02:32,680
+Je vais aller droit au but, Cam.
+
+62
+00:02:32,680 --> 00:02:38,240
+On apprécie ta vision et
+ton ambition avec ce projet.
+
+63
+00:02:38,240 --> 00:02:40,319
+Est-ce qu'il y a un "mais"?
+

@@ -1,0 +1,9 @@
+1
+00:00:00,800 --> 00:00:03,799
+C'était quelque chose de long,
+elle l'a proprement essoré.
+
+2
+00:00:04,559 --> 00:00:06,040
+Un tuyau en acier?
+

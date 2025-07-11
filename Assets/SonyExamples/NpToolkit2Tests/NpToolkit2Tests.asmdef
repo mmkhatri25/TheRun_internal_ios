@@ -1,0 +1,13 @@
+{
+    "name": "NpToolkit2Tests",
+    "references": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "PS4"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

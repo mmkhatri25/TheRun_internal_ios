@@ -1,0 +1,44 @@
+1
+00:00:00,960 --> 00:00:03,359
+Je vous donne une carte
+de l'Europe.
+
+2
+00:00:03,799 --> 00:00:06,200
+Je pensais que c'était
+un défi mathématique?
+
+3
+00:00:06,200 --> 00:00:07,759
+Qu'est-ce que je fais de ça?
+
+4
+00:00:08,000 --> 00:00:12,000
+Voici un tableau du taux d'homicides
+dans les pays européens.
+
+5
+00:00:13,359 --> 00:00:16,359
+Vous devez soustraire le taux
+d'homicide du pays bleu
+
+6
+00:00:16,359 --> 00:00:19,039
+à celui du pays rouge.
+
+7
+00:00:19,039 --> 00:00:20,320
+D'accord, donc...
+
+8
+00:00:20,839 --> 00:00:22,839
+Le rouge est l'Europe de l'Est.
+
+9
+00:00:23,800 --> 00:00:25,800
+Le bleu est la Méditérannée.
+
+10
+00:00:27,359 --> 00:00:28,559
+Hum...
+

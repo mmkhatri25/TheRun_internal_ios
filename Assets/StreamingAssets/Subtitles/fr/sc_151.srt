@@ -1,0 +1,9 @@
+1
+00:00:00,880 --> 00:00:04,679
+Course Poursuite.
+5000 c'est pas si difficile hein.
+
+2
+00:00:09,279 --> 00:00:10,679
+Et voilà.
+

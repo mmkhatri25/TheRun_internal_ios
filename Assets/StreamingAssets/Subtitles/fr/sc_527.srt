@@ -1,0 +1,22 @@
+1
+00:00:02,279 --> 00:00:04,080
+Appartement deux - verouillé.
+
+2
+00:00:07,919 --> 00:00:09,919
+Appartement un - déverouillé.
+
+3
+00:00:09,919 --> 00:00:12,279
+Sasha, mets des lumières
+d'ambiance pour Mimi.
+
+4
+00:00:12,279 --> 00:00:14,119
+Je rentre tard ce soir.
+
+5
+00:00:14,119 --> 00:00:16,199
+C'est fait pour vous.
+Profitez.
+

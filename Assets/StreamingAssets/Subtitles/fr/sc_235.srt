@@ -1,0 +1,44 @@
+1
+00:00:00,040 --> 00:00:01,919
+Est-ce que tu aimes les animaux?
+
+2
+00:00:02,040 --> 00:00:05,559
+Ouais. Je les préfères
+aux gens, honnêtement.
+
+3
+00:00:06,280 --> 00:00:08,160
+Donc tu n'aimes pas voir
+des animaux blessés?
+
+4
+00:00:08,160 --> 00:00:09,640
+Pas de question additionnelle.
+
+5
+00:00:09,800 --> 00:00:11,000
+Désolé.
+
+6
+00:00:12,320 --> 00:00:13,720
+Ça a aidé?
+
+7
+00:00:13,720 --> 00:00:15,720
+Ca n'exclue pas le tueur
+d'écureuils.
+
+8
+00:00:15,960 --> 00:00:17,359
+Question suivante.
+
+9
+00:00:18,559 --> 00:00:20,960
+Je suppose que tu dois
+les faire compter, hein?
+
+10
+00:00:21,800 --> 00:00:23,000
+C'est sûr.
+

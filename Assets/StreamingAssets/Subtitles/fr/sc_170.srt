@@ -1,0 +1,32 @@
+1
+00:00:00,640 --> 00:00:02,240
+Solo, c'est quoi les jeux?
+
+2
+00:00:02,439 --> 00:00:03,439
+Ralentissez.
+
+3
+00:00:03,439 --> 00:00:06,759
+- Je veux en finir.
+- Vous ne faites pas les règles ici.
+
+4
+00:00:10,800 --> 00:00:13,199
+Craquer le Code' ou
+'Test de Mémoire'.
+
+5
+00:00:13,519 --> 00:00:15,000
+Comment ça fonctionne?
+
+6
+00:00:15,320 --> 00:00:18,320
+Craquer le Code implique une série
+de défis basés sur les nombres.
+
+7
+00:00:19,000 --> 00:00:22,000
+Test de mémoire est
+ce à quoi on s'attends.
+

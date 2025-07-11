@@ -1,0 +1,13 @@
+1
+00:00:00,440 --> 00:00:02,919
+Est-ce que le meurtrier a
+les cheveux fonces?
+
+2
+00:00:03,240 --> 00:00:04,240
+Non.
+
+3
+00:00:04,759 --> 00:00:06,559
+Question suivante, s'il vous plaît.
+

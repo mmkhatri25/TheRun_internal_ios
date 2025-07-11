@@ -1,0 +1,12 @@
+1
+00:00:00,280 --> 00:00:02,000
+La victoire est pour Cam.
+
+2
+00:00:03,839 --> 00:00:05,599
+Je suis désolé, Mike.
+
+3
+00:00:06,040 --> 00:00:08,039
+J'y suis allé et j'ai perdu.
+

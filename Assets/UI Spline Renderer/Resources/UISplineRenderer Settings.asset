@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a21f54b05b414b95874ba3e272a365f0, type: 3}
+  m_Name: UISplineRenderer Settings
+  m_EditorClassIdentifier: 
+  defaultLineTexture: {fileID: 2800000, guid: de2cd6c5e176d6846b6ac52585e8307b, type: 3}
+  uvTestLineTexture: {fileID: 2800000, guid: 9a546562df1161a40b21293b5dadb11c, type: 3}
+  triangleHead: {fileID: 21300000, guid: 23c2331a5cac12343895afa95b9d5504, type: 3}
+  arrowHead: {fileID: 21300000, guid: d5d3eb9c021c8d440a2da201a039967c, type: 3}
+  emptyCircleHead: {fileID: 21300000, guid: 60e780f6137acf848bd41ff84c4bc3df, type: 3}
+  filledCircleHead: {fileID: 21300000, guid: 6fea2bbbbb345544a81bcfff2f1b1fe1, type: 3}

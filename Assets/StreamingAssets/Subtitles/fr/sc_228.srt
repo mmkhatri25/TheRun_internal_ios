@@ -1,0 +1,31 @@
+1
+00:00:00,120 --> 00:00:01,320
+Pluvieux?
+
+2
+00:00:01,760 --> 00:00:02,960
+Mauvaise réponse.
+
+3
+00:00:05,200 --> 00:00:07,759
+Dommage. C'était une question
+bonus, non?
+
+4
+00:00:10,359 --> 00:00:13,359
+Vous perdez Cam.
+Vous devez payer le prix.
+
+5
+00:00:15,160 --> 00:00:16,359
+Prix?
+
+6
+00:00:18,239 --> 00:00:19,719
+Qu'est-ce que vous avez fait?
+
+7
+00:00:20,160 --> 00:00:23,160
+Nous avons pris le contrôle.
+Le jeu est réel.
+

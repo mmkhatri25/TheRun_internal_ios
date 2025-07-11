@@ -1,0 +1,4 @@
+1
+00:00:01,199 --> 00:00:03,279
+C'était des triangles, c'est ça?
+

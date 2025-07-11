@@ -1,0 +1,23 @@
+1
+00:00:00,040 --> 00:00:02,439
+A quelle catégorie de jeu
+voulez-vous jouer maintenant?
+
+2
+00:00:03,319 --> 00:00:05,519
+Souvenez-vous, vous ne pouvez pas
+rejouer à une catégorie,
+
+3
+00:00:05,519 --> 00:00:07,719
+donc vous en avez deux restantes.
+
+4
+00:00:08,519 --> 00:00:09,960
+Pourquoi exactement?
+
+5
+00:00:09,960 --> 00:00:12,119
+La répétition est un mauvais
+système de jeu.
+

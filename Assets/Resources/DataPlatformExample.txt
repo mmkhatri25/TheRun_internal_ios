@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<EtxManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/xbox/instrumentation/1">
+  <Provider>
+    <Name>XceSampleProvider</Name>
+    <Guid>757b75e6-af12-4b25-ab2e-130779d11a7e</Guid>
+    <Company>Microsoft</Company>
+    <Application>XceSampleApp</Application>
+    <Contact>Microsoft</Contact>
+    <Description>Sample provider</Description>
+  </Provider>
+  <DefaultSettings>
+    <UploadEnabled>OnByDefault</UploadEnabled>
+    <PopulationSampleRate>SystemDefault</PopulationSampleRate>
+    <Latency>Normal</Latency>
+    <Priority>Normal</Priority>
+  </DefaultSettings>
+  <Events>
+    <Event Name="ButtonPress" PopulationSampleRate="ProviderDefault" Latency="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+      <Description>One of the four lettered buttons was pressed.</Description>
+      <PartC Version="1">
+        <Fields>
+          <Field Name="Button" Type="UnicodeString">
+            <Description>Name of the button pressed.</Description>
+          </Field>
+        </Fields>
+        <Description>One of the four lettered buttons was pressed.</Description>
+      </PartC>
+    </Event>
+  </Events>
+</EtxManifest>

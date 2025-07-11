@@ -1,0 +1,17 @@
+1
+00:00:00,200 --> 00:00:04,519
+Est-ce que le meurtrier a
+une blessure visible?
+
+2
+00:00:05,080 --> 00:00:06,080
+Non.
+
+3
+00:00:07,519 --> 00:00:09,839
+Maintenant votre réponse.
+
+4
+00:00:09,839 --> 00:00:12,160
+Qui est le meurtrier?
+

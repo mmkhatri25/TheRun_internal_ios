@@ -1,0 +1,8 @@
+1
+00:00:02,560 --> 00:00:04,559
+Allez, tête de noeud!
+
+2
+00:00:06,639 --> 00:00:08,800
+Comme les tables ont tournées.
+

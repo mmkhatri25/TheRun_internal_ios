@@ -1,0 +1,8 @@
+1
+00:00:00,440 --> 00:00:01,840
+Est-ce que c'est le gobelet trois?
+
+2
+00:00:04,120 --> 00:00:05,120
+Mauvaise réponse.
+

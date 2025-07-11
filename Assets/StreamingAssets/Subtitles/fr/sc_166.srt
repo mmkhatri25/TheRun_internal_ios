@@ -1,0 +1,84 @@
+1
+00:00:00,760 --> 00:00:02,359
+<i>Salut mec.</i>
+
+2
+00:00:02,879 --> 00:00:04,679
+Salut. Ça va?
+
+3
+00:00:05,480 --> 00:00:08,039
+<i>Notre dernier appel a</i>
+<i>laissé une note un peu négative...</i>
+
+4
+00:00:08,039 --> 00:00:11,720
+Je suis désolé. J'aimerais pouvoir
+expliquer pourquoi j'ai dit ces choses.
+
+5
+00:00:11,720 --> 00:00:14,519
+<i>Oh, y a pas besoin. </i>
+<i>Je pensais ce que j'ai dit.</i>
+
+6
+00:00:15,960 --> 00:00:18,039
+<i>Si tu pars maintenant, tu pourrais</i>
+<i>être là pour le coup d'envoi.</i>
+
+7
+00:00:18,039 --> 00:00:19,519
+<i>Ou venir pour</i>
+<i>la deuxième moitié?</i>
+
+8
+00:00:19,519 --> 00:00:21,199
+<i>Ou si tu veux</i>
+<i>qu'on abandonne complètement,</i>
+
+9
+00:00:21,199 --> 00:00:22,879
+<i>on peut</i>
+<i>diner quelque part.</i>
+
+10
+00:00:22,879 --> 00:00:25,000
+Je vais passer mon tour
+ce soir.
+
+11
+00:00:25,000 --> 00:00:27,199
+J'essaierai de te repérer
+à la télé.
+
+12
+00:00:29,120 --> 00:00:32,119
+<i>C'est dommage. C'est toujours mieux</i>
+<i>en direct qu'à la télé.</i>
+
+13
+00:00:32,119 --> 00:00:34,119
+C'est ce que tu dis toujours.
+
+14
+00:00:35,119 --> 00:00:37,320
+<i>D'accord. </i>
+<i>Au revoir frérot.</i>
+
+15
+00:00:37,320 --> 00:00:38,520
+[raccroche]
+
+16
+00:00:42,759 --> 00:00:44,759
+Vous vous êtes remis en condition?
+
+17
+00:00:46,359 --> 00:00:49,359
+Allez vous faire foutre.
+Finissons-en.
+
+18
+00:00:56,359 --> 00:00:57,960
+Bienvenu à nouveau, Cam.
+

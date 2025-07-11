@@ -1,0 +1,44 @@
+1
+00:00:07,799 --> 00:00:10,000
+Sasha, est-ce que j'ai le droit
+d'appler Alfie?
+
+2
+00:00:11,960 --> 00:00:14,160
+Bien sûr. 
+Je suis là pour aider.
+
+3
+00:00:14,480 --> 00:00:15,679
+Bien sûr...
+
+4
+00:00:16,519 --> 00:00:17,719
+Appelle le.
+
+5
+00:00:18,120 --> 00:00:19,920
+Il est enregistré en tant que 'Alfred'.
+
+6
+00:00:23,160 --> 00:00:24,760
+Appelle le, s'il te plaît.
+
+7
+00:00:25,519 --> 00:00:27,120
+Appel en cours avec Alfred.
+
+8
+00:00:27,280 --> 00:00:29,359
+Veuillez noter que, toute
+tentative de communication
+
+9
+00:00:29,359 --> 00:00:31,760
+avec la police
+sera bloquée.
+
+10
+00:00:32,119 --> 00:00:33,520
+[téléphone sonne]
+

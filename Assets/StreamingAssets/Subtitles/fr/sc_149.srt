@@ -1,0 +1,24 @@
+1
+00:00:00,640 --> 00:00:01,840
+Arcade.
+
+2
+00:00:08,080 --> 00:00:12,640
+Vous avez le choix entre deux.
+'Air Hockey' or 'Course poursuite'?
+
+3
+00:00:12,880 --> 00:00:14,679
+Donc, je dois avoir
+un haut score?
+
+4
+00:00:14,679 --> 00:00:19,239
+Pour le Air Hockey, vous devez jouer contre
+l'ordinateur et atteindre cinq points en premier.
+
+5
+00:00:19,239 --> 00:00:23,640
+Pour la Course Poursuite, vous devez
+atteindre un score de 5,000 avec deux vies.
+

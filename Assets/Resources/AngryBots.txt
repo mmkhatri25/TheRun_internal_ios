@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<EtxManifest SandboxId="UTDK.0" XmsKey="1cd30100-93a1-4c62-a8a8-1e294c51822b" xmlns="http://schemas.microsoft.com/xbox/instrumentation/1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Provider>
+		<Name>UTDK_4C51822B</Name>
+		<Guid>c5fc13f6-e75e-45a9-8938-6a2ce0bda5f6</Guid>
+	</Provider>
+	<DefaultSettings>
+		<UploadEnabled>OnByDefault</UploadEnabled>
+		<PopulationSampleRate>100</PopulationSampleRate>
+		<Latency>RealTime</Latency>
+		<Priority>Critical</Priority>
+	</DefaultSettings>
+	<Events>
+		<Event Latency="ProviderDefault" Name="Base" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Custom Event</Description>
+			<PartB Abbreviation="IGB" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Custom Event</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="DoorOpened" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<PartB Abbreviation="IGGP" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="1">
+				<Fields>
+					<Field Name="LocationX" Type="Float"/>
+					<Field Name="LocationY" Type="Float"/>
+					<Field Name="LocationZ" Type="Float"/>
+				</Fields>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="EnemyDefeated" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<PartB Abbreviation="IGED" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="GameCompleted" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<PartB Abbreviation="IGSE" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="1">
+				<Fields>
+					<Field Name="Score" Type="Int32"/>
+				</Fields>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="GameProgress" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>This event must be logged each time a player hits an in-game progression marker</Description>
+			<PartB Abbreviation="IGGP" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>This event must be logged each time a player hits an in-game progression marker</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="MediaUsage" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>The event used to record a specific media action (such as play, pause, or skip) for music and video playback.</Description>
+			<PartB Abbreviation="MAUMU" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>The event used to record a specific media action (such as play, pause, or skip) for music and video playback.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="MultiplayerRoundEnd" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>This event should be fired when a player exits a ranked or match-made multiplayer round. The goal is to collect information about the competitive rounds a user plays.</Description>
+			<PartB Abbreviation="IGMRE" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>This event should be fired when a player exits a ranked or match-made multiplayer round. The goal is to collect information about the competitive rounds a user plays.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="MultiplayerRoundStart" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>This event should be fired when a player enters a ranked or match-made multiplayer round. A round is an instance of gameplay that ends with winners and losers. Differentiates between competitive vs. cooperative modes, and public vs. private matchmaking.</Description>
+			<PartB Abbreviation="IGMRS" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>This event should be fired when a player enters a ranked or match-made multiplayer round. A round is an instance of gameplay that ends with winners and losers. Differentiates between competitive vs. cooperative modes, and public vs. private matchmaking.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="ObjectiveEnd" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Call each time a player starts or completes an in-game objective, quest, mission, or goal.</Description>
+			<PartB Abbreviation="IGOE" Part="B" Version="3">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Call each time a player starts or completes an in-game objective, quest, mission, or goal.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="ObjectiveStart" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Call each time a player starts or completes an in-game objective, quest, mission, or goal.</Description>
+			<PartB Abbreviation="IGOS" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Call each time a player starts or completes an in-game objective, quest, mission, or goal.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="PageAction" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>PageAction is an event that captures any action the user took on the page (button press, NUI, Voice, scroll, onSelect, etc.).</Description>
+			<PartB Abbreviation="IGPA" Part="B" Version="1">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>PageAction is an event that captures any action the user took on the page (button press, NUI, Voice, scroll, onSelect, etc.).</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="PageView" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>PageView is an event that captures what was shown to the user.</Description>
+			<PartB Abbreviation="IGPV" Part="B" Version="1">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>PageView is an event that captures what was shown to the user.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="PlayerSessionEnd" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Call every time a user exits the current Player Session or quits the game, or simply navigates away from the specific experience it was previously interacting with the title.</Description>
+			<PartB Abbreviation="IGPSE" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Call every time a user exits the current Player Session or quits the game, or simply navigates away from the specific experience it was previously interacting with the title.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="PlayerSessionPause" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>This event must be fired when the title goes into idle mode or the player enters an area of the game or app that is NOT relevant to include in the total time actively spent in the title. The goal is to provide useful information to the player about the amount of time they have actually played a game or used an app.</Description>
+			<PartB Abbreviation="IGPSPA" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>This event must be fired when the title goes into idle mode or the player enters an area of the game or app that is NOT relevant to include in the total time actively spent in the title. The goal is to provide useful information to the player about the amount of time they have actually played a game or used an app.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="PlayerSessionResume" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>This event must be fired when the title resumes from idle mode or the player enters an area of the game or app that is relevant to include in the total time actively spent in the title.</Description>
+			<PartB Abbreviation="IGPSR" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>This event must be fired when the title resumes from idle mode or the player enters an area of the game or app that is relevant to include in the total time actively spent in the title.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="PlayerSessionStart" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Call every time a user begins interacting with the title in a specific mode or experience.</Description>
+			<PartB Abbreviation="IGPSS" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Call every time a user begins interacting with the title in a specific mode or experience.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="PlaySessionStart" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<PartB Abbreviation="IGPSS" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="1">
+				<Fields>
+					<Field Name="StartTime" Type="UInt64"/>
+				</Fields>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="SceneChanged" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<PartB Abbreviation="IGB" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="1">
+				<Fields>
+					<Field Name="SceneId" Type="Int32"/>
+				</Fields>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="ScoreChanged" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<PartB Abbreviation="IGB" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="1">
+				<Fields>
+					<Field Name="CurrentScore" Type="Int32"/>
+				</Fields>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="SectionEnd" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Call every time a user successfully or unsuccessfully exits a distinct major thematic or narrative section of the game. Fire this event when a player completes a narrative, quits the game, dies, or simply navigates away from a specific area or world.</Description>
+			<PartB Abbreviation="IGSE" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Call every time a user successfully or unsuccessfully exits a distinct major thematic or narrative section of the game. Fire this event when a player completes a narrative, quits the game, dies, or simply navigates away from a specific area or world.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="SectionStart" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Call every time a user enters a distinct major thematic or narrative section of the game. Examples of a &quot;section&quot; are maps, levels, worlds, chapters, etc. Sections can also include menus, lobbies, as appropriate.</Description>
+			<PartB Abbreviation="IGSS" Part="B" Version="2">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Call every time a user enters a distinct major thematic or narrative section of the game. Examples of a &quot;section&quot; are maps, levels, worlds, chapters, etc. Sections can also include menus, lobbies, as appropriate.</Description>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="SplashScreen" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<PartB Abbreviation="IGPV" Part="B" Version="1">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+			</PartC>
+		</Event>
+		<Event Latency="ProviderDefault" Name="ViewOffer" PopulationSampleRate="ProviderDefault" Priority="ProviderDefault" UploadEnabled="ProviderDefault">
+			<ETW/>
+			<Description>Tracks the details about offer and product that a user viewed in a game.</Description>
+			<PartB Abbreviation="IGVO" Part="B" Version="1">
+				<Fields/>
+			</PartB>
+			<PartC Domain="Custom" Part="C" Version="0">
+				<Fields/>
+				<Description>Tracks the details about offer and product that a user viewed in a game.</Description>
+			</PartC>
+		</Event>
+	</Events>
+</EtxManifest>

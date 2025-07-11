@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Rewired_GameCore_EditorRuntime</name>
+    </assembly>
+    <members>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreControllerExtension">
+            <summary>
+            Allows access to controller-specific functions.
+            </summary>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreControllerExtension.GetNativeDeviceId(System.Byte[])">
+            <summary>
+            Gets the native device id.
+            The device id is a 32-byte value.
+            This is only useful for direct interaction with the GameCore SDK.
+            </summary>
+            <param name="buffer">The buffer to receive the data. Buffer must hold at least 32 bytes to receive the device id.</param>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreControllerExtension.HasComponent``1">
+            <summary>
+            Determines whether this extension supports the specified interface.
+            </summary>
+            <typeparam name="T">The interface type.</typeparam>
+            <returns>True if the interface is supported, False if it is not supported.</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreControllerExtension.GetComponent``1">
+            <summary>
+            Gets the component with the specified interface.
+            </summary>
+            <typeparam name="T">The interface type</typeparam>
+            <returns>The interface if it exists, null if it does not.</returns>
+        </member>
+        <member name="E:Rewired.Platforms.GameCore.GameCoreControllerExtension.NativeUserChangedEvent">
+            <summary>
+            An event sent when the native user id associated to this controller changes.
+            The native user id corresponds to XUserLocalId in the GameCore SDK.
+            </summary>
+        </member>
+        <member name="P:Rewired.Platforms.GameCore.GameCoreControllerExtension.nativeUserId">
+            <summary>
+            Gets the native user id.
+            This corresponds to XUserLocalId in the GameCore SDK.
+            This is only useful for direct interaction with the GameCore SDK.
+            </summary>
+        </member>
+        <member name="P:Rewired.Platforms.GameCore.GameCoreControllerExtension.nativeDevicePointer">
+            <summary>
+            Gets the native device pointer.
+            This is only useful for direct interaction with the GameCore SDK.
+            If the hande is unavailable or invalid, returns IntPtr.Zero.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreInput">
+            <summary>
+            Provides access to input-related methods and settings at runtime.
+            </summary>
+        </member>
+        <member name="P:Rewired.Platforms.GameCore.GameCoreInput.pluginVersion">
+            <summary>
+            Gets the current Rewired GameCore plugin version.
+            </summary>
+        </member>
+        <member name="P:Rewired.Platforms.GameCore.GameCoreInput.isReady">
+            <summary>
+            Is the system initialized?
+            </summary>
+        </member>
+        <member name="E:Rewired.Platforms.GameCore.GameCoreInput.NativeUserControllerAssociationChangedEvent">
+            <summary>
+            An event sent when the native user id associated to any controller changes.
+            The native user id corresponds to XUserLocalId in the GameCore SDK.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment">
+            <summary>
+            Provides access to controller assignment-related settings at runtime.
+            </summary>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.GetUserIdsForPlayer(Rewired.Player,System.Collections.Generic.List{System.UInt64})">
+            <summary>
+            Get the native local XUser ids associated with the Rewired Player.
+            </summary>
+            <param name="player">Rewired player</param>
+            <param name="results">A list to receive the native user ids. The incoming list will be cleared by the function.</param>
+            <returns>The number of native user ids returned in the results list. This corresponds to XUserLocalId.</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.GetUserIdsForPlayer(System.Int32,System.Collections.Generic.List{System.UInt64})">
+            <summary>
+            Get the native local XUser ids associated with the Rewired Player.
+            </summary>
+            <param name="playerId">Rewired player id</param>
+            <param name="results">A list to receive the native user ids. The incoming list will be cleared by the function.</param>
+            <returns>The number of native user ids returned in the results list. This corresponds to XUserLocalId.</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.GetPlayerForUserId(System.UInt64)">
+            <summary>
+            Gets the Rewired Player associated with the native local XUser id.
+            </summary>
+            <param name="nativeUserId">Native user id. This corresponds to XUserLocalId.</param>
+            <returns>Player for the native user id. If none, returns null.</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.GetPlayerIdForUserId(System.UInt64)">
+            <summary>
+            Gets the Rewired Player id associated with the native local XUser id.
+            </summary>
+            <param name="nativeUserId">Native user id. This corresponds to XUserLocalId.</param>
+            <returns>Player id for the native user id. If none, returns -1.</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.SetPlayerForUserId(System.UInt64,Rewired.Player)">
+            <summary>
+            Sets the native local XUser id associated with the Rewired Player.
+            </summary>
+            <param name="nativeUserId">Native user id. This corresponds to XUserLocalId.</param>
+            <param name="player">Rewired player</param>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.SetPlayerForUserId(System.UInt64,System.Int32)">
+            <summary>
+            Sets the native local XUser id associated with the Rewired Player.
+            </summary>
+            <param name="nativeUserId">Native user id. This corresponds to XUserLocalId.</param>
+            <param name="playerId">Rewired player id</param>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.RemoveUserId(System.UInt64)">
+            <summary>
+            Removes the Player association for the local XUser id.
+            </summary>
+            <param name="nativeUserId">Native user id. This corresponds to XUserLocalId.</param>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.ContainsUserId(System.UInt64)">
+            <summary>
+            Determines if there is a Player association with the native local XUser id.
+            </summary>
+            <param name="nativeUserId">Native user id. This corresponds to XUserLocalId.</param>
+            <returns>True if there is a Player associated to this native user id, or False if not.</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.ClearUserIds">
+            <summary>
+            Clears all native local XUser id to Player associations.
+            </summary>
+        </member>
+        <member name="P:Rewired.Platforms.GameCore.GameCoreInput.ControllerAssignment.assignJoysticksByUserId">
+            <summary>
+            If enabled, Joysticks will be assigned based on the local XUser id associated with the controller to a specific Player.
+            The user id to Player associations must be set up using the other functions in this class before they will have any effect.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreKeyboardExtension">
+            <summary>
+            Allows access to keyboard-specific functions.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreMotionAccuracy">
+            <summary>
+            Motion accuracy enum.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreMotionAccuracy.Unknown">
+            <summary>
+            Accuracy is unknown.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreMotionAccuracy.Unavailable">
+            <summary>
+            Accuracy information unavailable.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreMotionAccuracy.Unreliable">
+            <summary>
+            Accuracy is unreliable.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreMotionAccuracy.Approximate">
+            <summary>
+            Accuracy is approximate.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreMotionAccuracy.Accurate">
+            <summary>
+            Accuracy is accurate.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreMouseExtension">
+            <summary>
+            Allows access to mouse-specific functions.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreTouchState">
+            <summary>
+            Touch state structure.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreTouchState.touchId">
+            <summary>
+            The touch id.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreTouchState.sensorIndex">
+            <summary>
+            The sensor index.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreTouchState.position">
+            <summary>
+            The position.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreTouchState.pressure">
+            <summary>
+            The pressure.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreTouchState.proximity">
+            <summary>
+            The proximity.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreTouchState.contactRect">
+            <summary>
+            The contact rect.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreUserControllerAssociationChangedEventArgs">
+            <summary>
+            Event args for user-controller association chagned event.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreUserControllerAssociationChangedEventArgs.controller">
+            <summary>
+            The controller whose user association changed.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreUserControllerAssociationChangedEventArgs.oldNativeUserId">
+            <summary>
+            The native user id of the previous user. This corresponds to XUserLocalId in the GameCore SDK.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreUserControllerAssociationChangedEventArgs.newNativeUserId">
+            <summary>
+            The native user id of the new user. This corresponds to XUserLocalId in the GameCore SDK.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.GameCoreVibration">
+            <summary>
+            Gamepad vibration motor state.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreVibration.lowFrequency">
+            <summary>
+            Low frequency motor level.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreVibration.highFrequency">
+            <summary>
+            High frequency motor level.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreVibration.leftTrigger">
+            <summary>
+            Left trigger motor level.
+            </summary>
+        </member>
+        <member name="F:Rewired.Platforms.GameCore.GameCoreVibration.rightTrigger">
+            <summary>
+            Right trigger motor level.
+            </summary>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreVibration.Create">
+            <summary>
+            Creates a new vibration with the default settings..
+            </summary>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.GameCoreVibration.Create(System.Single,System.Single,System.Single,System.Single)">
+            <summary>
+            Creates a new vibration with the specified settings.
+            </summary>
+            <param name="lowFrequency">The low frequency motor level.</param>
+            <param name="highFrequency">The high frequency motor level.</param>
+            <param name="leftTrigger">The left trigger motor level.</param>
+            <param name="rightTrigger">The right trigger motor level.</param>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.IGameCoreMotionDevice">
+            <summary>
+            Interface for a device with motion sensors.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetAcceleration">
+            <summary>
+            Gets the current acceleration vector.
+            The value has been converted to Unity's coordinate system.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <returns>Acceleration vector</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetAccelerationRaw">
+            <summary>
+            Gets the current raw acceleration vector.
+            The value is in the original coordinate system.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <returns>Acceleration vector</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetAngularVelocity">
+            <summary>
+            Gets the current angular velocity.
+            The value has been converted to Unity's coordinate system.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <returns>Angular velocity</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetAngularVelocityRaw">
+            <summary>
+            Gets the current angular velocity.
+            The value is in the original coordinate system.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <returns>Angular velocity</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetMagneticField">
+            <summary>
+            Gets the current magnetometer value.
+            The value has been converted to Unity's coordinate system.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <returns>Magnetic field</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetMagneticFieldRaw">
+            <summary>
+            Gets the current magnetometer value.
+            The value is in the original coordinate system.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <returns>Magnetic field</returns>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetOrientation">
+            <summary>
+            Gets the current orientation.
+            The value has been converted to Unity's coordinate system.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <returns>Orientation</returns>
+            
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Rewired.Platforms.GameCore.IGameCoreMotionDevice.GetOrientationRaw" -->
+        <member name="P:Rewired.Platforms.GameCore.IGameCoreMotionDevice.magnetometerAccuracy">
+            <summary>
+            The accuracy level of the device's magnetometer.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+        </member>
+        <member name="P:Rewired.Platforms.GameCore.IGameCoreMotionDevice.orientationAccuracy">
+            <summary>
+            The accuracy level of the orientation.
+            IMPORTANT: At the time of writing, motion input is not supported by the GameCore SDK and this does not function.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.IGameCoreTouchDevice">
+            <summary>
+            Interface for a touch input.
+            IMPORTANT: At the time of writing, touch input is not supported by the GameCore SDK and this does not function.
+            </summary>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreTouchDevice.GetTouchState(System.Int32)">
+            <summary>
+            Gets the touch state at the specified index.
+            IMPORTANT: At the time of writing, touch input is not supported by the GameCore SDK and this does not function.
+            </summary>
+            <param name="index">The touch index.</param>
+            <returns>Touch state</returns>
+        </member>
+        <member name="P:Rewired.Platforms.GameCore.IGameCoreTouchDevice.maxTouches">
+            <summary>
+            Number of simultaneous touches supported by this device.
+            IMPORTANT: At the time of writing, touch input is not supported by the GameCore SDK and this does not function.
+            </summary>
+        </member>
+        <member name="T:Rewired.Platforms.GameCore.IGameCoreVibrationDevice">
+            <summary>
+            Interface for controller vibration on the GameCore platform.
+            </summary>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreVibrationDevice.SetVibration(Rewired.Platforms.GameCore.GameCoreVibration)">
+            <summary>
+            Set vibration level for all motors.
+            </summary>
+            <param name="vibration">The vibration data.</param>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreVibrationDevice.SetVibration(Rewired.Platforms.GameCore.GameCoreVibration,System.Single)">
+            <summary>
+            Sets vibration level for all motors.
+            </summary>
+            <param name="vibration">The vibration data.</param>
+            <param name="duration">Length of time in seconds to activate the motors before it stops. [0 = Infinite]</param>
+        </member>
+        <member name="M:Rewired.Platforms.GameCore.IGameCoreVibrationDevice.GetVibration">
+            <summary>
+            Gets vibration level for all motors.
+            </summary>
+            <returns>GameCoreVibration</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,18 @@
+1
+00:00:00,360 --> 00:00:03,439
+Vous perdez, Cam. 
+Vous devez payer le prix?
+
+2
+00:00:03,960 --> 00:00:04,960
+Prix?
+
+3
+00:00:06,960 --> 00:00:08,560
+Qu'est-ce que vous avez fait?
+
+4
+00:00:08,560 --> 00:00:11,880
+Nous avons pris le contrôle. 
+Le jeu est réel.
+

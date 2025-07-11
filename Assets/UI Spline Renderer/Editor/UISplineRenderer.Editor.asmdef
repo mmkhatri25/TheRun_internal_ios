@@ -1,0 +1,40 @@
+{
+    "name": "UISplineRenderer.Editor",
+    "rootNamespace": "UISplineRendererEditor",
+    "references": [
+        "GUID:21d1eb854b91ade49bc69a263d12bee2",
+        "GUID:8f24f501fa8e1fb48a03f1d7e6d03db4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.splines",
+            "expression": "",
+            "define": "ENABLE_SPLINES"
+        },
+        {
+            "name": "com.unity.collections",
+            "expression": "",
+            "define": "ENABLE_COLLECTIONS"
+        },
+        {
+            "name": "com.unity.mathematics",
+            "expression": "",
+            "define": "ENABLE_MATHEMATICS"
+        },
+        {
+            "name": "com.unity.burst",
+            "expression": "",
+            "define": "ENABLE_BURST"
+        }
+    ],
+    "noEngineReferences": false
+}

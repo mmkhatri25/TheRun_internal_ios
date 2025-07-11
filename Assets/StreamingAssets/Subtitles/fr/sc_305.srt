@@ -1,0 +1,24 @@
+1
+00:00:00,360 --> 00:00:01,560
+Arcade.
+
+2
+00:00:06,240 --> 00:00:08,439
+"Billard" ou
+"Articulations et genoux"?
+
+3
+00:00:08,800 --> 00:00:10,640
+Donc, je dois
+faire un score haut?
+
+4
+00:00:10,640 --> 00:00:14,359
+Pour "Billard" vous devez gagner
+tous les jeux contre l'ordinateur.
+
+5
+00:00:14,359 --> 00:00:19,079
+Pour "Articulations et genoux", vous
+devez atteindre le niveau 30 avec deux vies.
+

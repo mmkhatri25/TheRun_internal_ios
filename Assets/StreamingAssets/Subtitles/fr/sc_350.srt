@@ -1,0 +1,8 @@
+1
+00:00:00,520 --> 00:00:02,120
+Est-ce que c'est le gobelet six?
+
+2
+00:00:04,160 --> 00:00:05,360
+Mauvaise réponse.
+

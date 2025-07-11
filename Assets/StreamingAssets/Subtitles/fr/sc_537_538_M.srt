@@ -1,0 +1,375 @@
+1
+00:00:03,640 --> 00:00:04,960
+Tobias!
+
+2
+00:00:04,960 --> 00:00:07,799
+Je t'ai pas reconnu
+sans tes mèches bouclées.
+
+3
+00:00:07,799 --> 00:00:11,160
+Je n'ai pas trouvé ça approprié
+à la nature de cette réunion.
+
+4
+00:00:11,160 --> 00:00:13,160
+Et quid de l'armure, Jukes?
+
+5
+00:00:16,559 --> 00:00:21,160
+Ben, mon père disait toujours
+que le commerce c'est comme la guerre.
+
+6
+00:00:22,120 --> 00:00:24,600
+Merci pour votre temps,
+les gars.
+
+7
+00:00:25,399 --> 00:00:30,000
+Tobias, tu as bien évidemment testé
+l'expérience "Hello Stranger" aujourd'hui.
+
+8
+00:00:30,000 --> 00:00:32,759
+Pam, tu as prévu de le faire
+aussi?
+
+9
+00:00:32,759 --> 00:00:35,240
+Non, je m'en remets à
+Tobias pour ça.
+
+10
+00:00:35,240 --> 00:00:37,399
+Nous avons investi dans
+suffisamment d'entreprises ensemble.
+
+11
+00:00:37,399 --> 00:00:39,880
+J'ai confiance en mon prince guerrier.
+
+12
+00:00:39,880 --> 00:00:41,399
+Trop gentil.
+
+13
+00:00:42,039 --> 00:00:44,560
+Alors, Tobias,
+tu en penses quoi?
+
+14
+00:00:44,560 --> 00:00:46,200
+C'était intéressant.
+
+15
+00:00:46,200 --> 00:00:49,280
+Tu répondras aux trous
+dans ma compréhension?
+
+16
+00:00:49,280 --> 00:00:50,479
+Bien sûr.
+
+17
+00:00:50,479 --> 00:00:56,439
+Donc, "Hello Stranger" est une
+expérience de jeu immersif en ligne.
+
+18
+00:00:56,439 --> 00:00:58,240
+... et une communauté mondiale.
+
+19
+00:00:58,240 --> 00:01:01,520
+Où les utilisateurs peuvent
+connecter socialement au hasard.
+
+20
+00:01:01,520 --> 00:01:04,560
+Mais aussi, chaque jour un euh…
+
+21
+00:01:04,560 --> 00:01:08,120
+... jeu de rôle hacker/otage
+a lieu?
+
+22
+00:01:08,799 --> 00:01:09,519
+D'accord.
+
+23
+00:01:09,519 --> 00:01:13,239
+Où un hacker masqué "prends le contrôle"
+de la smart home de l'utilisateur.
+
+24
+00:01:13,239 --> 00:01:15,040
+... et ensuite ils doivent
+jouer à des jeux tous seuls
+
+25
+00:01:15,040 --> 00:01:17,920
+ou contre les autres utilisateurs
+pour survivre.
+
+26
+00:01:17,920 --> 00:01:20,280
+Les expériences immersives
+sont tendances aujourd'hui.
+
+27
+00:01:20,280 --> 00:01:23,760
+Donc, c'est comme une sorte
+d'escape room à la maison.
+
+28
+00:01:23,760 --> 00:01:24,920
+Exactement.
+
+29
+00:01:24,920 --> 00:01:27,239
+Ou une alternative aux soirées
+"meurtre et mystère" si
+
+30
+00:01:27,239 --> 00:01:28,959
+t'as pas d'amis
+avec qui jouer.
+
+31
+00:01:28,959 --> 00:01:30,400
+Tu peux te faire des amis
+en ligne.
+
+32
+00:01:30,400 --> 00:01:32,560
+... et vous pouvez
+jouer ensemble.
+
+33
+00:01:32,560 --> 00:01:34,920
+Ou n'importe quel
+personnage que l'on souhaite?
+
+34
+00:01:34,920 --> 00:01:36,319
+Exactement.
+
+35
+00:01:36,319 --> 00:01:38,519
+Jukes, fils de Jukes.
+
+36
+00:01:40,239 --> 00:01:42,680
+Dis-moi en plus sur
+l'application qui
+
+37
+00:01:42,680 --> 00:01:45,319
+"prends le contrôle" des smart homes
+des gens.
+
+38
+00:01:45,319 --> 00:01:48,760
+Ça ressemble terriblement
+à un vrai piratage.
+
+39
+00:01:48,760 --> 00:01:50,760
+Il n'y a rien de malveillant.
+
+40
+00:01:50,760 --> 00:01:53,319
+Nous obtenons toutes
+les autorisations des utilisateurs.
+
+41
+00:01:53,319 --> 00:01:56,200
+Enfin, qu'est-ce que la vie privé
+de toute façon aujourd'hui?
+
+42
+00:01:57,000 --> 00:02:00,319
+Les gens cliquent sur "tout accepter"
+chaque fois qu'ils ont une notification de cookies.
+
+43
+00:02:00,319 --> 00:02:03,799
+Donc, qui était la personne
+masquée?
+
+44
+00:02:03,799 --> 00:02:06,200
+... et les autres gens?
+
+45
+00:02:06,200 --> 00:02:09,080
+Rose, Mike et Hilda.
+
+46
+00:02:09,080 --> 00:02:10,879
+Mes employés.
+
+47
+00:02:10,879 --> 00:02:12,840
+Ouais, ils jouaient le rôle
+d'autres utilisateurs.
+
+48
+00:02:12,840 --> 00:02:14,919
+Des performances convaincantes.
+
+49
+00:02:14,919 --> 00:02:19,120
+Donc, tu as les testeurs de jeu
+et l'équipe de programmeurs?
+
+50
+00:02:19,120 --> 00:02:21,319
+Tu as financé tout ça
+toi-même?
+
+51
+00:02:21,319 --> 00:02:22,240
+Ouais.
+
+52
+00:02:22,240 --> 00:02:25,000
+... et avec notre investissement,
+tu veux agrandir cette équipe?
+
+53
+00:02:25,000 --> 00:02:29,520
+Non, non. Votre investissement serait
+pour la stratégie et le marketing.
+
+54
+00:02:29,520 --> 00:02:31,520
+Pas d'inquiétudes
+sur l'agrandissement de l'équipe.
+
+55
+00:02:31,520 --> 00:02:35,319
+J'ai des contacts dans l'externalisation
+qui peuvent nous économiser des milliers.
+
+56
+00:02:35,319 --> 00:02:38,719
+On n'est pas là pour créer des
+ateliers de travail clandestins de logiciels.
+
+57
+00:02:38,719 --> 00:02:40,240
+Absolument pas.
+
+58
+00:02:40,240 --> 00:02:42,319
+Ouais!
+Non, bien sûr.
+
+59
+00:02:43,280 --> 00:02:44,759
+Je ne suggérais pas-
+
+60
+00:02:44,759 --> 00:02:47,000
+Je vais aller droit au but, Cam.
+
+61
+00:02:47,000 --> 00:02:50,719
+On apprécie ta vision et
+ton ambition avec ce projet.
+
+62
+00:02:51,000 --> 00:02:53,080
+Est-ce qu'il y a un "mais"?
+
+63
+00:02:53,319 --> 00:02:54,599
+Mais...
+
+64
+00:02:54,599 --> 00:02:56,560
+J'ai passé un bon
+moment avec.
+
+65
+00:02:56,560 --> 00:02:59,039
+J'ai été interpellé et captivé.
+
+66
+00:02:59,039 --> 00:03:01,439
+C'est pas souvent que
+je perds à des jeux.
+
+67
+00:03:01,439 --> 00:03:03,120
+Bien joué pour
+m'avoir conquis.
+
+68
+00:03:03,120 --> 00:03:05,520
+Une mort très convaincante
+de votre part.
+
+69
+00:03:06,479 --> 00:03:08,800
+Le calice empoisonné.
+J'adore.
+
+70
+00:03:08,800 --> 00:03:10,639
+Il semble qu'on pourrait
+tenir quelque chose.
+
+71
+00:03:10,639 --> 00:03:14,479
+Oui. On peut régler
+les problèmes logistiques.
+
+72
+00:03:14,479 --> 00:03:16,319
+Mais c'est un bon produit.
+
+73
+00:03:16,319 --> 00:03:17,680
+J'y crois.
+
+74
+00:03:17,680 --> 00:03:20,759
+Les gars, vous ne savez pas à quel point
+je suis reconnaissant d'entendre ça.
+
+75
+00:03:20,759 --> 00:03:23,439
+Nous enverrons une proposition
+formelle. A bientôt.
+
+76
+00:03:23,680 --> 00:03:25,879
+Bien sûr.
+Merci.
+
+77
+00:03:26,280 --> 00:03:28,080
+Félicitations Cam!
+
+78
+00:03:28,879 --> 00:03:30,599
+Pour la vaillance!
+
+79
+00:03:38,560 --> 00:03:40,639
+Sasha, je vais fêter ça
+à côté.
+
+80
+00:03:40,639 --> 00:03:42,719
+C'est la fête!
+
+81
+00:03:43,479 --> 00:03:45,680
+[♫ Musique festive ♫]
+

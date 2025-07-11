@@ -1,0 +1,22 @@
+1
+00:00:05,639 --> 00:00:07,200
+'Gagnant'
+
+2
+00:00:08,080 --> 00:00:09,519
+Échec et mat.
+
+3
+00:00:09,519 --> 00:00:10,640
+Quoi?
+
+4
+00:00:10,640 --> 00:00:13,359
+Va te faire foutre, mec. Allez, allez.
+Revanche, revanche, allez, revanche!
+
+5
+00:00:13,359 --> 00:00:15,560
+Tu t'es raté, mon frère,
+réfléchis-y.
+

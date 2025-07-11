@@ -1,0 +1,17 @@
+1
+00:00:00,320 --> 00:00:04,120
+Est-ce que le meurtrier a
+des tatouages ou des piercings?
+
+2
+00:00:04,839 --> 00:00:05,839
+Oui.
+
+3
+00:00:07,200 --> 00:00:09,519
+Maintenant votre réponse.
+
+4
+00:00:09,519 --> 00:00:11,759
+Qui est le meurtrier?
+

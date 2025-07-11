@@ -1,0 +1,31 @@
+1
+00:00:02,000 --> 00:00:03,200
+Merde!
+
+2
+00:00:04,000 --> 00:00:05,960
+Les hommes commencent
+rarement avec ciseaux.
+
+3
+00:00:05,960 --> 00:00:07,759
+Pourquoi t'es en train
+de lier ça à mon genre?
+
+4
+00:00:07,759 --> 00:00:10,359
+De lier ça à la psychologie.
+On rejoue.
+
+5
+00:00:12,919 --> 00:00:13,640
+Pierre.
+
+6
+00:00:13,640 --> 00:00:14,359
+Feuille.
+
+7
+00:00:14,359 --> 00:00:15,000
+Ciseaux.
+

@@ -1,0 +1,8 @@
+1
+01:00:00,639 --> 01:00:02,639
+Non, non, c'est pas juste!
+
+2
+01:00:04,000 --> 01:00:05,800
+Cette merde est truquée.
+

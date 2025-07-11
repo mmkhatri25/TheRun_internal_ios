@@ -1,0 +1,63 @@
+Game Core Plugin
+
+v18:
+  - Added GDK 10.0.22000.3160 native library.
+
+v17:
+  - Added GDK 10.0.19041.7032 native library.
+  - Fixed bug causing some input events to be lost when using multiple controllers simultaneously.
+
+v16:
+  - Reworked native user association changed events to behave more like GDK user association changed event. (Event now fires on controller connect and before controller disconnect.)
+  - Added workaround for device user association change events sometimes being sent by GDK before device connection events, causing the device user association event to be lost because no Controller had been created matching the event's device id at the time the event was processed.
+
+v15:
+  - Added GameCoreControllerExtension.NativeUserChangedEvent event.
+  - Added GameCoreInput.NativeUserControllerAssociationChangedEvent event.
+
+v14:
+  - Fixed exception thrown when Rewired Input Manager is disabled at runtime and then re-enabled.
+  - Fixed crash when Rewired Input Manager is disabled at runtime, a controller connected, then re-enabled.
+
+v13:
+  - Added GDK 10.0.19041.7011 native library.
+  - Fixed manual GDK version selector not replacing native libraries when changing versions.
+  - GDK version is now determined from the Unity extension rather than checking the GDK environment variable to detect which version of the native library to extract. If the system had a newer version of the GDK installed than the GDK version of the Unity editor being used, a library built to a newer version of the GDK could be installed causing errors in a build.
+
+v12:
+  - Added GDK 10.0.19041.6101 native library.
+
+v11:
+  - Performance improvements.
+
+v10:
+  - Fixed possible IndexOutOfRangeException when using devices that support Raw Device profile.
+
+v9:
+  - Fixed possible crash when using devices that support Raw Device profile.
+
+v8:
+  - Fixed bug causing GameCoreInput.ControllerAssignment.assignJoysticksByUserId value to not be retained when set at runtime.
+
+v7:
+  - Fixed incorrect labeling of Left Stick Button and Guide button elements.
+
+v6:
+  - Removed touch control component due to unexplained crashes when receiving touch input events.
+
+v5:
+  - Fixed crash when touch input is received in GDK 10.0.19041.5057+.
+
+v4:
+  - Recompiled due to errors in obfuscation in 2021.x branch.
+
+v3:
+  - Fixed IL2CPP error when calling GameCoreControllerExtension.GetComponent<IGameCoreVibrationDevice>();
+
+v2:
+  - Added GDK 10.0.19041.5057 native library.
+  - Added native library pdb files.
+  - Bug Fix: Fixed infinite loop when calling GameCoreInput.ControllerAssignment.SetPlayerForUserId(long nativeUserId, Player player) overload.
+
+v1:
+  - Initial release.

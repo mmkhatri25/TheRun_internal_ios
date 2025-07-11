@@ -1,0 +1,17 @@
+1
+00:00:01,639 --> 00:00:03,040
+Bienvenu de retour Cam.
+
+2
+00:00:06,559 --> 00:00:08,759
+Votre dernière catégorie
+a déjà été déterminée
+
+3
+00:00:08,759 --> 00:00:10,560
+par vos choix précédents.
+
+4
+00:00:11,000 --> 00:00:12,800
+Vous savez ce que c'est?
+

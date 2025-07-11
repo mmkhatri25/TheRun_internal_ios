@@ -1,0 +1,22 @@
+1
+00:00:00,200 --> 00:00:01,399
+Non!
+
+2
+00:00:07,000 --> 00:00:10,359
+Vous perdez Cam.
+Vous devez payer le prix.
+
+3
+00:00:11,119 --> 00:00:12,320
+Prix?
+
+4
+00:00:13,519 --> 00:00:15,119
+Qu'est-ce que vous avez fait?
+
+5
+00:00:15,119 --> 00:00:18,199
+Nous avons pris le contrôle.
+Le jeu est réel.
+

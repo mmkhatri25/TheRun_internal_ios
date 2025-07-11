@@ -1,0 +1,51 @@
+1
+00:00:00,720 --> 00:00:01,960
+Est-ce que c'est huit?
+
+2
+00:00:02,879 --> 00:00:03,960
+C'est juste.
+
+3
+00:00:04,200 --> 00:00:05,280
+Oui.
+
+4
+00:00:06,280 --> 00:00:07,759
+Jeu terminé.
+
+5
+00:00:07,759 --> 00:00:09,599
+Mais vous avez perdu
+celui-ci au final.
+
+6
+00:00:12,000 --> 00:00:13,599
+On est libres.
+
+7
+00:00:18,519 --> 00:00:20,480
+Donc c'est tout?
+
+8
+00:00:20,480 --> 00:00:21,679
+Ouais.
+
+9
+00:00:22,199 --> 00:00:24,280
+On doit sortir d'ici.
+
+10
+00:00:24,280 --> 00:00:26,079
+Désolé, j'ai juste... woah.
+
+11
+00:00:26,480 --> 00:00:28,920
+Je peux pas oublier ce que j'ai entendu
+dans ces enregistrements, Cam.
+
+12
+00:00:28,920 --> 00:00:30,760
+Ils essaient de creuser
+un fossé entre nous.
+

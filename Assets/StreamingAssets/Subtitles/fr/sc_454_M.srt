@@ -1,0 +1,41 @@
+1
+00:00:00,040 --> 00:00:01,840
+Félicitations, Rose.
+
+2
+00:00:01,840 --> 00:00:03,839
+Vous avez terminé le jeu.
+
+3
+00:00:10,800 --> 00:00:12,439
+Vous perdez Cam.
+
+4
+00:00:12,439 --> 00:00:15,400
+Vous connaissez le prix
+que vous devez payer.
+
+5
+00:00:16,359 --> 00:00:17,559
+Bien sûr.
+
+6
+00:00:25,199 --> 00:00:27,399
+Sasha, joue de la musique.
+
+7
+00:00:28,440 --> 00:00:29,640
+Quelque chose...
+
+8
+00:00:30,719 --> 00:00:31,920
+... de triste.
+
+9
+00:00:32,600 --> 00:00:34,920
+J'ai la chanson parfaite.
+
+10
+00:00:37,759 --> 00:00:39,960
+[♫ Musique triste ♫]
+

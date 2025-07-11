@@ -1,0 +1,13 @@
+1
+00:00:00,640 --> 00:00:02,439
+La victoire est pour Cam.
+
+2
+00:00:04,679 --> 00:00:06,080
+Je suis désolé Rose.
+
+3
+00:00:06,400 --> 00:00:08,359
+Je savais
+ce qui était en jeu.
+

@@ -1,0 +1,30 @@
+1
+00:00:03,240 --> 00:00:05,639
+Merde.
+T'as vu que je bluffais.
+
+2
+00:00:06,080 --> 00:00:07,719
+Un point pour moi.
+
+3
+00:00:08,480 --> 00:00:11,119
+Allez, on se détend!
+Les jeux c'est censé être amusant.
+
+4
+00:00:13,519 --> 00:00:15,080
+Très bien, on rejoue.
+
+5
+00:00:17,280 --> 00:00:18,120
+Pierre.
+
+6
+00:00:18,120 --> 00:00:18,760
+Feuille.
+
+7
+00:00:18,760 --> 00:00:19,399
+Ciseaux.
+

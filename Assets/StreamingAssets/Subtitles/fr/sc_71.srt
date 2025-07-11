@@ -1,0 +1,17 @@
+1
+00:00:01,000 --> 00:00:03,600
+Est-ce que le meurtrier a
+les yeux verts?
+
+2
+00:00:04,679 --> 00:00:05,679
+Oui.
+
+3
+00:00:06,599 --> 00:00:09,000
+Maintenant votre réponse.
+
+4
+00:00:09,000 --> 00:00:11,240
+Qui est le meurtrier?
+

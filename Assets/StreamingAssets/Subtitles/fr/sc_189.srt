@@ -1,0 +1,8 @@
+1
+00:00:08,560 --> 00:00:09,880
+Et maintenant?
+
+2
+00:00:09,880 --> 00:00:11,960
+On voit quels verrous s'ouvrent.
+

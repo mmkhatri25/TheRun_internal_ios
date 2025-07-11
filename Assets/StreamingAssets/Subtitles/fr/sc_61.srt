@@ -1,0 +1,9 @@
+1
+00:00:01,520 --> 00:00:03,279
+Est-ce que le meurtrier est un homme?
+
+2
+00:00:03,759 --> 00:00:06,759
+Non.
+Question suivante, s'il vous plaît.
+

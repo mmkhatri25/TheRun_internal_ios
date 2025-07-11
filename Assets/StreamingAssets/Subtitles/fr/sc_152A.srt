@@ -1,0 +1,22 @@
+1
+00:00:00,040 --> 00:00:01,800
+[grogne]
+
+2
+00:00:11,960 --> 00:00:15,199
+Vous perdez Cam.
+Vous devez payer le prix.
+
+3
+00:00:15,480 --> 00:00:17,079
+Prix?
+
+4
+00:00:17,879 --> 00:00:19,879
+Qu'est-ce que vous avez fait?
+
+5
+00:00:19,879 --> 00:00:22,879
+Nous avons pris le contrôle.
+Le jeu est réel.
+

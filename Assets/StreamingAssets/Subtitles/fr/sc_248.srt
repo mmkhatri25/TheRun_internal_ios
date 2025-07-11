@@ -1,0 +1,39 @@
+1
+00:00:00,240 --> 00:00:02,560
+Que le nom de ta mère serait Sasha.
+
+2
+00:00:02,919 --> 00:00:04,240
+C'est juste.
+
+3
+00:00:04,240 --> 00:00:05,639
+Ah, oui!
+
+4
+00:00:06,280 --> 00:00:07,919
+Comment t'as su?
+
+5
+00:00:07,919 --> 00:00:10,800
+Pourquoi tu donnerais le nom
+de ta mère à un robot
+
+6
+00:00:10,800 --> 00:00:12,560
+si tu l'aimais vraiment?
+
+7
+00:00:12,560 --> 00:00:14,960
+Sasha est plus de l'IA
+qu'un robot, mais d'accord.
+
+8
+00:00:15,679 --> 00:00:17,079
+Bien joué.
+
+9
+00:00:17,640 --> 00:00:19,640
+Au tour de Cam de deviner
+à nouveau.
+

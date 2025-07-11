@@ -1,0 +1,14 @@
+1
+00:00:01,080 --> 00:00:04,080
+Je vous donne un sudoku
+quasi complet.
+
+2
+00:00:05,839 --> 00:00:09,480
+Quelle est la somme des deux
+chiffres mystères dans les cases vertes?
+
+3
+00:00:11,880 --> 00:00:14,080
+D'accord, je peux y arriver.
+

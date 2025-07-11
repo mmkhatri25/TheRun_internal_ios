@@ -1,0 +1,8 @@
+1
+00:00:00,320 --> 00:00:01,720
+Est-ce que c'est neuf?
+
+2
+00:00:02,560 --> 00:00:04,759
+Si près, et pourtant si loin.
+

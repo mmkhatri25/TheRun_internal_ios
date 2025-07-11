@@ -1,0 +1,12 @@
+1
+00:00:03,080 --> 00:00:04,639
+Est-ce que le meurtrier est âgé?
+
+2
+00:00:04,839 --> 00:00:05,839
+Non.
+
+3
+00:00:06,360 --> 00:00:08,279
+Question suivante, s'il vous plaît.
+

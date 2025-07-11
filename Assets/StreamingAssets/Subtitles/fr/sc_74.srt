@@ -1,0 +1,17 @@
+1
+00:00:00,960 --> 00:00:04,120
+Est-ce que le meurtrier a
+les yeux marrons?
+
+2
+00:00:04,599 --> 00:00:05,599
+Non.
+
+3
+00:00:07,120 --> 00:00:09,359
+Maintenant votre réponse.
+
+4
+00:00:09,359 --> 00:00:11,759
+Qui est le meurtrier?
+

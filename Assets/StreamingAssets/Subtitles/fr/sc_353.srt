@@ -1,0 +1,21 @@
+1
+00:00:00,320 --> 00:00:01,960
+Est-ce que c'est le gobelet cinq?
+
+2
+00:00:05,200 --> 00:00:06,200
+Allez!
+
+3
+00:00:06,200 --> 00:00:07,799
+Sans faute jusqu'ici.
+
+4
+00:00:07,799 --> 00:00:10,759
+Tout se joue
+dans le dernier tour.
+
+5
+00:00:37,000 --> 00:00:39,159
+Où est l'oeil?
+

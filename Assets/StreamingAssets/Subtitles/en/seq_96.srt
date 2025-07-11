@@ -1,0 +1,21 @@
+1
+00:00:17,359 --> 00:00:18,760
+Hey Miri.
+
+2
+00:00:19,359 --> 00:00:20,920
+Play me something.
+
+3
+00:00:20,920 --> 00:00:22,719
+Resuming running playlist.
+
+4
+00:00:22,719 --> 00:00:26,640
+♪ 'Burn You To The Ground' 
+by True Swans ♪
+
+5
+00:00:50,960 --> 00:00:52,960
+[BLANK_AUDIO]
+

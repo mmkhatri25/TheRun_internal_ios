@@ -1,0 +1,4 @@
+1
+00:00:00,960 --> 00:00:03,040
+C'était des pentagones, c'est ça?
+

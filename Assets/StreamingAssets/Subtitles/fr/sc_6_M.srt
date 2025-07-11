@@ -1,0 +1,59 @@
+1
+00:00:04,599 --> 00:00:08,279
+Sasha, scanne la partie sur mon navigateur
+et trouve les coups gagnants pour les blancs.
+
+2
+00:00:08,279 --> 00:00:12,279
+Tous les moteurs d'échecs indiquent pour
+échec et mat le meilleur coup est reine en F6.
+
+3
+00:00:18,440 --> 00:00:20,000
+'Gagnant'
+
+4
+00:00:20,839 --> 00:00:21,839
+Échec et mat.
+
+5
+00:00:22,399 --> 00:00:23,399
+Quoi?
+
+6
+00:00:23,399 --> 00:00:26,039
+Va te faire foutre, mec. Allez, allez.
+Revanche, revanche, allez, revanche!
+
+7
+00:00:26,039 --> 00:00:28,039
+Tu t'es raté, mon frère,
+réfléchis-y.
+
+8
+00:00:28,519 --> 00:00:31,280
+'Moteur d'échecs illégal détecté'
+
+9
+00:00:31,280 --> 00:00:32,799
+T'as utilisé un moteur?
+
+10
+00:00:32,799 --> 00:00:34,399
+Salaud de tricheur.
+
+11
+00:00:34,679 --> 00:00:36,560
+C'est des échecs sur Internet,
+que fais-tu?
+
+12
+00:00:36,560 --> 00:00:38,439
+Ma photo de profil est une
+photo de bébé, quoi-
+
+11
+00:00:40,960 --> 00:00:43,159
+Les tricheurs ne progressent jamais,
+Cam.
+

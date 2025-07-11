@@ -1,0 +1,13 @@
+1
+00:00:00,040 --> 00:00:02,439
+A quelle catégorie de jeu
+voulez-vous jouer maintenant?
+
+2
+00:00:03,600 --> 00:00:05,719
+Solo ou Compétitif?
+
+3
+00:00:08,119 --> 00:00:09,880
+Qu'est-ce que ça va être?
+
